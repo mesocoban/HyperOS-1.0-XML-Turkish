@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="screenrecorder_settings_orientation">
+    <item>Otomatik</item>
+    <item>Portre</item>
+    <item>Manzara</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_sound">
+    <item>Sessiz</item>
+    <item>Mikrofon</item>
+    <item>Sistem sesleri</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_sound_native">
+    <item>Hiçbiri</item>
+    <item>Mikrofon</item>
+    <item>Sistem</item>
+    <item>Her ikisi</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_storage_location">
+    <item>Dahili depolama</item>
+    <item>Harici depolama</item>
+  </string-array>
+</resources>

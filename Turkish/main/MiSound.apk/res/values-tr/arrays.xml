@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="effect_selector_values">
+    <item>dolby</item>
+    <item>misound</item>
+    <item>hiçbiri</item>
+  </string-array>
+</resources>

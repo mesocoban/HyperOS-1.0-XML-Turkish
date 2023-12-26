@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cta_permission_names">
+    <item>ağı test et</item>
+    <item>SMS oku</item>
+    <item>SMS\'i değiştir</item>
+    <item>SMS al</item>
+    <item>SMS gönder</item>
+    <item>arama yap</item>
+    <item>kişileri oku</item>
+    <item>kişileri düzenle</item>
+    <item>arama kaydını oku</item>
+    <item>arama kaydını düzenle</item>
+    <item>kameraya erişim</item>
+    <item>konum erişimi</item>
+  </string-array>
+</resources>

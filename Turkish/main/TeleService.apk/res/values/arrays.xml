@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Sadece ev</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Ağ varsayılanı</item>
+        <item>Numarayı gizle</item>
+        <item>Numarayı göster</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>VARSAYILAN</item>
+        <item>GİZLE</item>
+        <item>GÖSTER</item>
+    </string-array>
+    <string-array name="clir_values_default_only">
+        <item>VARSAYILAN</item>
+    </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 bulunamadı</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 mevcudiyet için yetkili değil</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Gelişmiş Arama</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA tercih edilen</item>
+        <item>Yalnızca GSM</item>
+        <item>Yalnızca WCDMA</item>
+        <item>GSM/WCDMA otomatik</item>
+        <item>CDMA/EvDo otomatik</item>
+        <item>EvDo olmadan CDMA</item>
+        <item>Yalnızca EvDo</item>
+    </string-array>
+</resources>
