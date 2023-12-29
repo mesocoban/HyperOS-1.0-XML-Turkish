@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="pa_covid_items_default">
-    <item>KOVID-19</item>
-    <item>Sağlık kodu</item>
-    <item>PCR</item>
-    <item>Yüksek-riskli alan</item>
-  </string-array>
-  <string-array name="pa_home_week_days">
-    <item>Pazar</item>
-    <item>Pazartesi</item>
-    <item>Salı</item>
-    <item>Çarşamba</item>
-    <item>Perşembe</item>
-    <item>Cuma</item>
-    <item>Cumartesi</item>
-    <item>Pazar</item>
-  </string-array>
-  <string-array name="pa_stock_color_schema_value_array">
-    <item>Kırmızı - yukarı, yeşil - aşağı</item>
-    <item>Yeşil - yukarı, kırmızı - aşağı</item>
-  </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>KOVID-19</item>
+        <item>Sağlık kodu</item>
+        <item>PCR</item>
+        <item>Yüksek-riskli alan</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Kırmızı - yukarı, yeşil - aşağı</item>
+        <item>Yeşil - yukarı, kırmızı - aşağı</item>
+    </string-array>
 </resources>

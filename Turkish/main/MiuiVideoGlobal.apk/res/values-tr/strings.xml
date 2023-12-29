@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Earlier">Daha önce</string>
+  <string name="HA_DOMAIN">mivideo</string>
+  <string name="HA_DOMAIN_TEST">test</string>
   <string name="This_week">Bu hafta</string>
   <string name="Today">Bugün</string>
   <string name="Yesterday">Dün</string>
@@ -78,6 +80,7 @@
   <string name="ad_left_time">Reklamın bitmesine saniyeler kaldı</string>
   <string name="add_local_shortcut_add">Ekle</string>
   <string name="add_local_shortcut_des">Tek bir dokunuşla yerel videolara erişmek için Ana ekrana \'\'Videolarım\'\' kısayolunu ekleyin.</string>
+  <string name="add_search_channel_link">Bağlantı adresi</string>
   <string name="add_search_channel_name">Ad</string>
   <string name="add_search_channel_tip">Hedef internet sitesinde \'\'%s\'\' arayın, sonra URL adresini buraya kopyalayıp yapıştırın.</string>
   <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
@@ -102,10 +105,13 @@
   <string name="app_description_content">"Mi Video yerel bir video oynatıcı içeren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra da video dosyalarını oynatabileceksiniz."</string>
   <string name="app_description_title">\'\'Mi Video\'\' Ana ekrandan kaldırılsın mı?</string>
   <string name="app_inner_open">Uygulamada aç</string>
+  <string name="app_name">Mi Video</string>
   <string name="area_en">İngilizce</string>
   <string name="area_indonesia">Bahasa Endonezce</string>
   <string name="area_malaysia">Malayca</string>
   <string name="area_self">Otomatik</string>
+  <string name="area_thailand">Taylantça</string>
+  <string name="area_vietnam">Vietnam</string>
   <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın.</string>
   <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
   <string name="auto_play_next_on">Otomatik oynatma açık</string>
@@ -126,6 +132,7 @@
   <string name="btn_playlist_play_all">Oynat</string>
   <string name="cancel">İptal</string>
   <string name="cancel_choose">Seçimi kaldır</string>
+  <string name="cancel_label">X</string>
   <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>
   <string name="cast_ad_label">Reklam</string>
   <string name="cast_casting_to_device">%1$s cihazına yayınlanıyor</string>
@@ -133,6 +140,7 @@
   <string name="cast_closed_captions_unavailable">Altyazılar kullanılamıyor</string>
   <string name="cast_connecting_to_device">%1$s cihazına bağlanılıyor</string>
   <string name="cast_disconnect">Bağlantıyı kes</string>
+  <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
   <string name="cast_expanded_controller_ad_image_description">Yayın alıcıda bir reklam oynatılırken gösterilen resim</string>
   <string name="cast_expanded_controller_ad_in_progress">Reklam işleniyor…</string>
   <string name="cast_expanded_controller_background_image">Albüm kapağı</string>
@@ -144,10 +152,13 @@
   <string name="cast_forward">İleri sar</string>
   <string name="cast_forward_10">On saniye ileri sar</string>
   <string name="cast_forward_30">Otuz saniye ileri sar</string>
+  <string name="cast_invalid_stream_duration_text">--:--</string>
+  <string name="cast_invalid_stream_position_text">--:--</string>
   <string name="cast_live_label">CANLI</string>
   <string name="cast_mute">Sesi kapat</string>
   <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
   <string name="cast_notification_connecting_message">%1$s bağlantısı yapılıyor</string>
+  <string name="cast_notification_default_channel_name">Yansıt</string>
   <string name="cast_notification_disconnect">Bağlantıyı kes</string>
   <string name="cast_pause">Duraklat</string>
   <string name="cast_play">Oynat</string>
@@ -172,7 +183,6 @@
   <string name="change_password">Şifreyi değiştir</string>
   <string name="character_counter_content_description">%2$d karakterden %1$d tanesi girildi</string>
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d/%2$d değeri aşıldı</string>
-  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="chip_text">Çip metni</string>
   <string name="choose">Seç</string>
   <string name="choose_to_signin">Evet</string>
@@ -295,10 +305,13 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="dialog_disagree_title">Gizlilik Politikası</string>
   <string name="dialog_edit_bookmarks">Yer imini düzenle</string>
   <string name="dialog_edit_hint_bookmarks_name">Yer imi adı</string>
+  <string name="dialog_edit_hint_bookmarks_url">Bağlantı adresi</string>
   <string name="dialog_edit_hint_name">Ad</string>
+  <string name="dialog_edit_hint_url">Bağlantı adresi</string>
   <string name="dialog_item_add_video">Video ekle</string>
   <string name="dialog_jumpto_choose">"Tekrar gösterme"</string>
   <string name="dialog_jumpto_content">Ek oynatma özelliklerine erişmek için Mi Video\'ya geçilsin mi?</string>
+  <string name="dialog_jumpto_title">Mi Video</string>
   <string name="dialog_look_offline_btn">Çevrim dışı içeriği görüntüle</string>
   <string name="dialog_no_internet_des">"Ağa bağlı değilsiniz. Bunun yerine çevrim dışı içerik görüntülensin mi?"</string>
   <string name="dialog_no_video_confirm">Anladım</string>
@@ -354,6 +367,7 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="download_pending">Bekleniyor…</string>
   <string name="download_power_off_tips">"Bu özellik şimdi kullanılamamaktadır"</string>
   <string name="download_retry">Tekrar dene</string>
+  <string name="download_space_info" formatted="false">%s, %s</string>
   <string name="download_unable_tip">"Bu öge indirilemiyor"</string>
   <string name="download_video">Video indiriliyor</string>
   <string name="downloading">İndiriliyor…</string>
@@ -370,6 +384,7 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="exit">Çık</string>
   <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
   <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırak</string>
+  <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
   <string name="exo_controls_fastforward_description">İleri sar</string>
   <string name="exo_controls_fullscreen_enter_description">Tam ekrana geç</string>
   <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çık</string>
@@ -380,6 +395,7 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="exo_controls_pause_description">Duraklat</string>
   <string name="exo_controls_play_description">Çal</string>
   <string name="exo_controls_playback_speed">Hız</string>
+  <string name="exo_controls_playback_speed_normal">Normal</string>
   <string name="exo_controls_previous_description">Önceki</string>
   <string name="exo_controls_repeat_all_description">Tümünü tekrarla</string>
   <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
@@ -401,6 +417,10 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="exo_download_paused_for_network">İndirmeler için ağ bekleniyor</string>
   <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
   <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
+  <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
+  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_role_alternate">Alternatif</string>
   <string name="exo_track_role_closed_captions">Altyazı</string>
   <string name="exo_track_role_commentary">Anlatım</string>
@@ -409,6 +429,8 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="exo_track_selection_none">Yok</string>
   <string name="exo_track_selection_title_audio">Ses</string>
   <string name="exo_track_selection_title_text">Metin</string>
+  <string name="exo_track_selection_title_video">Video</string>
+  <string name="exo_track_stereo">Stereo</string>
   <string name="exo_track_surround">Surround ses</string>
   <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
   <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
@@ -511,12 +533,22 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="fw_loading">Yalnızca bir sn.…</string>
   <string name="fw_reload_sub_title">Tekrar denemek için ekrana dokunun</string>
   <string name="fw_reload_title">"Ağa bağlanamadı."</string>
+  <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Kamera</string>
   <string name="gallery_folder_alias_download">İndirilenler</string>
+  <string name="gallery_folder_alias_mivideo">Mi Video</string>
   <string name="gallery_folder_alias_mobileqq">QQ kamera</string>
   <string name="gallery_folder_alias_mobileqq_file">QQ dosyaları</string>
+  <string name="gallery_folder_alias_pdd">Pinduoduo</string>
+  <string name="gallery_folder_alias_qq">QQ</string>
   <string name="gallery_folder_alias_qqeditpic">QQ düzenleyici</string>
+  <string name="gallery_folder_alias_qtt">Qutoutiao</string>
   <string name="gallery_folder_alias_screen_recorder">Ekran kayıtları</string>
+  <string name="gallery_folder_alias_sina">Sina</string>
+  <string name="gallery_folder_alias_tencent_video">Tencent Video</string>
+  <string name="gallery_folder_alias_toutiao">Toutiao</string>
+  <string name="gallery_folder_alias_wechat">WeChat</string>
+  <string name="gallery_folder_alias_youku_video">Youku</string>
   <string name="gallery_tab_all">Tümü</string>
   <string name="galleryplus_already_cloud_member">Oynamak için VIP üyeliğini kullan</string>
   <string name="galleryplus_check_network">Ayarlar</string>
@@ -533,6 +565,7 @@ Temel hizmetleri size sağlayabilmesi için Mi Video'nun gerekli kişisel bilgil
   <string name="galleryplus_gallery_video_adjust_hint">Yalnızca %dfps videolar desteklenmektedir</string>
   <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
   <string name="galleryplus_gallery_video_default_music_text">Otomatik</string>
+  <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
   <string name="galleryplus_gallery_video_icon_is_record_log">GÜNLÜK</string>
   <string name="galleryplus_gallery_video_item3_default_text">İfadeler</string>
   <string name="galleryplus_gallery_video_item4_default_text">Gündoğumu</string>
@@ -590,6 +623,7 @@ Bu işlem, galeri resimlerinizi etkilemez."</string>
   <string name="galleryplus_permission_storage_content_unreshowable_video_player">Yerel video oynatıcıyı kullanabilmek için bu uygulamaya Ayarlar\'ın \'\'İzinler\'\' bölümünde depolama alanına erişim izni verin.</string>
   <string name="galleryplus_permission_storage_title">Depolama alanına erişim gerekli</string>
   <string name="galleryplus_permission_title">Uyarı</string>
+  <string name="galleryplus_play_speed">%1$.1fX</string>
   <string name="galleryplus_restore_play_speed">Şimdi normal hızda oynatılıyor</string>
   <string name="galleryplus_save_cancel_toast">Videoyu kaydetmeyi iptal etmek için \"Geri\" seçeneğine dokunun</string>
   <string name="galleryplus_save_fail">"Kaydedilemedi"</string>
@@ -622,6 +656,8 @@ Bu işlem, galeri resimlerinizi etkilemez."</string>
   <string name="galleryplus_talkback_sound_track_item_ai_music">Otomatik film müziği</string>
   <string name="galleryplus_talkback_sound_track_item_local_music">Yerel film müziği</string>
   <string name="galleryplus_talkback_sound_track_item_no_music">Film müziği yok</string>
+  <string name="galleryplus_talkback_speed_view_item">%sX</string>
+  <string name="galleryplus_talkback_subtitle_time">%1$s, %2$s - %3$s</string>
   <string name="galleryplus_talkback_unfocused_speed">Seçilmedi, %sX</string>
   <string name="galleryplus_v_agree">Onayla</string>
   <string name="galleryplus_v_cancel">İptal et</string>
@@ -927,8 +963,10 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
   <string name="mediation_ad">Reklam</string>
   <string name="mediation_ad_can_not_share">"Bu video paylaşılamıyor"</string>
+  <string name="member">VIP</string>
   <string name="message_notify">Yeni mesaj bildirimi</string>
   <string name="mgmi_ad_mid_wait">Ara verin. Sonra devam edin.</string>
+  <string name="mgmi_ad_sdk_gdt">gdt</string>
   <string name="mgmi_adform_dsc">Reklam·%s</string>
   <string name="mgmi_apk_download_finish_title">Uygulamalarınız</string>
   <string name="mgmi_apk_download_no_permission_title">Lütfen yerel depolama iznine izin verin</string>
@@ -1019,8 +1057,14 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="mnc_subscribe_push_title">Akım başlıyor</string>
   <string name="moment_guide_desc">Yakınlaştırmak ve uzaklaştırmak için hareketleri kullan</string>
   <string name="moment_tab_all">Tümü</string>
+  <string name="moment_tab_facebook">Facebook</string>
   <string name="moment_tab_image">Resimler</string>
+  <string name="moment_tab_instagram">Instagram</string>
+  <string name="moment_tab_qq">QQ</string>
+  <string name="moment_tab_sina_weibo">Weibo</string>
   <string name="moment_tab_video">Kaydedildi</string>
+  <string name="moment_tab_wechat">WeChat</string>
+  <string name="moment_tab_whatsapp">WhatsApp</string>
   <string name="monday">Pazartesi</string>
   <string name="monday_short">Pzt</string>
   <string name="monday_shortest">Pzt</string>
@@ -1095,9 +1139,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
   <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
   <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-  <string name="mtrl_picker_cancel">İptal</string>
   <string name="mtrl_picker_confirm">Tamam</string>
-  <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
   <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
   <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
@@ -1109,7 +1151,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-  <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
   <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
   <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
   <string name="mtrl_picker_save">Kaydet</string>
@@ -1193,6 +1234,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="online_play_start_ready_loading_tip_mb">Yükleniyor %.2f MB/s</string>
   <string name="online_play_title">URL girin</string>
   <string name="open_settings">Ayarlara git</string>
+  <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Son abonelikler</string>
   <string name="order_recently_updated">Son güncellenen</string>
   <string name="out_of_memory_background_playback_is_suspended">Yetersiz bellekten dolayı arka planda oynatma duraklatıldı</string>
@@ -1236,6 +1278,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesap eklemek için, oturum açtıktan sonra QR kodunu tekrar taratın.</string>
   <string name="passport_can_not_receive_verification_code">"Doğrulama kodunu alamıyor musunuz?"</string>
+  <string name="passport_captcha_title">Captcha</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_close">Kapat</string>
   <string name="passport_delete_account">Oturumu kapat</string>
@@ -1259,9 +1302,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="passport_error_unknown">Bilinmeyen hata</string>
   <string name="passport_error_user_agreement_error">Öncelikle şartlar ve koşulları kabul edin</string>
   <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
-  <string name="passport_forget_password">
-    <u>Şifremi unuttum</u>
-  </string>
+  <string name="passport_forget_password">    <u>Şifremi unuttum</u>  </string>
   <string name="passport_get_verify_code">Kodu al</string>
   <string name="passport_getting_verify_code">Yalnızca bir sn…</string>
   <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın.</string>
@@ -1331,6 +1372,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="phone_num_use_for">Telefon numarası bu işlemler için kullanılır:</string>
   <string name="phone_number">Telefon numarası</string>
   <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok.</string>
+  <string name="pip">PiP</string>
   <string name="pip_not_supported_toast">Resim içinde resim özelliğini kullanabilmek için en yeni sistem sürümüne güncelleyin.</string>
   <string name="play_list_save_dialog_create">Çalma listesi oluştur</string>
   <string name="play_list_save_dialog_title">Çalma listesine ekle</string>
@@ -1383,6 +1425,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="plus_player_detail_file_path">"Yol: "</string>
   <string name="plus_player_detail_file_time">"Zaman damgası: "</string>
   <string name="plus_player_hide">Gizle</string>
+  <string name="plus_player_pip">PiP</string>
   <string name="plus_player_pip_unsupport">"PiP, sisteminizin bu sürümünde desteklenmiyor."</string>
   <string name="plus_player_play_mode_auto">Otomatik oynatma</string>
   <string name="plus_player_play_mode_list">Tümünü tekrarla</string>
@@ -1445,6 +1488,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="plus_properties_type">Tür</string>
   <string name="plus_properties_type_audio">Ses</string>
   <string name="plus_properties_type_subtitle">Altyazılar</string>
+  <string name="plus_properties_type_video">Video</string>
   <string name="plus_properties_unfinish">Tamamlanmadı</string>
   <string name="plus_search_barhint">Yerel video ara</string>
   <string name="plus_search_guide">Video ara</string>
@@ -1615,6 +1659,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="solar_term_winter_solstice">Kış gündönümü</string>
   <string name="sorry_play_faild">Üzgünüm! Video oynatılamadı</string>
   <string name="source">"Kaynak: "</string>
+  <string name="special_type_8k">AI 8K</string>
   <string name="special_type_log">GÜNLÜK</string>
   <string name="srl_component_falsify" formatted="false">"%s tahrifat alanı,
  Çalışma zamanında sürüklemenin yüksekliğini[%.1fdp] temsil eder,
@@ -1808,6 +1853,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="tt_ad_is_closed">Reklam kapatıldı</string>
   <string name="tt_ad_logo_txt">Reklam</string>
   <string name="tt_ad_showed_text">Reklam gösterildi</string>
+  <string name="tt_adslot_size_empty">Boş reklam alanı boyutu</string>
   <string name="tt_app_empty">İstek uygulaması yok</string>
   <string name="tt_auto_play_cancel_text">İptal et</string>
   <string name="tt_banner_ad_load_image_error">Banner yüklenemedi</string>
@@ -1893,7 +1939,9 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="tt_reward_full_skip">%1$s saniye sonra atla</string>
   <string name="tt_reward_msg">Ödülünüzü talep etmek için videonun tamamını izleyin</string>
   <string name="tt_reward_screen_skip_tx">Atla</string>
+  <string name="tt_ror_code_show_event_error">Etkinlik hatasını göster</string>
   <string name="tt_skip_ad_time_text">%d saniye sonra atla</string>
+  <string name="tt_slide_up_3d">silin</string>
   <string name="tt_splash_brush_mask_hint">Ayrıntılar sayfasına veya üçüncü taraf uygulamasına geçin</string>
   <string name="tt_splash_brush_mask_title">Lehçe için kaydırın veya tıklayın</string>
   <string name="tt_splash_cache_expired_error">Önbellek süresi doldu</string>
@@ -1919,6 +1967,10 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="tt_txt_skip">Atla</string>
   <string name="tt_unlike">Farklı</string>
   <string name="tt_video_bytesize">Veri</string>
+  <string name="tt_video_bytesize_M">M</string>
+  <string name="tt_video_bytesize_MB">MB</string>
+  <string name="tt_video_continue_play">Oynamaya Devam Et</string>
+  <string name="tt_video_dial_phone">Şimdi Ara</string>
   <string name="tt_video_download_apk">Hemen İndir</string>
   <string name="tt_video_mobile_go_detail">Şimdi Görüntüle</string>
   <string name="tt_video_retry_des">Yükleme başarısız oldu. Tekrar denemek için tıklayın</string>
@@ -1926,6 +1978,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="tt_video_without_wifi_tips">Bu içeriği oynatmak %.2f MB veri kullanacak</string>
   <string name="tt_wap_empty">Istek yok wap</string>
   <string name="tt_web_title_default">Reklam ver</string>
+  <string name="tt_will_play">Şimdi Oynat</string>
   <string name="tt_yes_i_agree">Evet, katılıyorum</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
@@ -1947,6 +2000,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="user_id_hint">E-posta/Telefon/Mi hesap kimliği</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="v_app_name">Mi Video</string>
   <string name="v_cancel">İptal et</string>
   <string name="v_click_to_retry">Tekrar dene</string>
   <string name="v_code_title">Doğrulama kodunu girin</string>
@@ -1976,6 +2030,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="video_download_play_video_guide2">İndirmeye başlamak için ışık yandıktan sonra tuşa dokunun.</string>
   <string name="video_download_play_video_step1">Adım %1$d</string>
   <string name="video_download_play_video_step2">Adım %2$d</string>
+  <string name="video_download_site_search">Bağlantı adresi</string>
   <string name="video_download_source">İnternetten indirme</string>
   <string name="video_download_start">İndiriliyor…</string>
   <string name="video_download_storage_error">Yeterli depolama alanı yok</string>
@@ -1985,6 +2040,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="video_live_over">Bu oturum sona erdi</string>
   <string name="video_noyet_download_tip">Bu video hala indiriliyor</string>
   <string name="video_offline">Bu öge artık kullanılabilir değil</string>
+  <string name="video_resolution_tag_suffix">%dP</string>
   <string name="view">Görüntüle</string>
   <string name="vip_skip">Reklamı atlamak için VIP\'ye başvurun</string>
   <string name="vk_video_tab">Size özel</string>
@@ -2020,29 +2076,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="widget_more_channel_click">TV kanallarını görmek için dokunun</string>
   <string name="widget_trending_click">"Bugünün en popüler videolarını görmek için dokunun"</string>
   <string name="widget_trending_today">Bugün popüler</string>
-  <string name="yandex_ads_internal_after_timer_value">saniye kadar</string>
-  <string name="yandex_ads_internal_before_timer_value">Ödül</string>
-  <string name="yandex_ads_internal_go">Git</string>
-  <string name="yandex_ads_internal_install">Yüklemek</string>
-  <string name="yandex_ads_internal_install_from_google_play">Google Play\'den yükle</string>
-  <string name="yandex_ads_internal_instream_call_to_action">Git ➔</string>
-  <string name="yandex_ads_internal_instream_skip">Geç</string>
-  <string name="yandex_ads_internal_instream_sponsored_social">SOSYAL REKLAM</string>
-  <string name="yandex_ads_internal_instream_sponsored_yandex">AD</string>
-  <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
-  <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">İzlemeye devam edin</string>
-  <string name="yandex_ads_internal_rewarded_close_verification_text">Reklamı zamanlayıcı sona ermeden kapatırsanız, izlediğiniz için ödüllendirilmeyeceksiniz</string>
-  <string name="yandex_ads_internal_rewarded_close_verification_title">Reklamı Kapat?</string>
-  <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Yüklemek</string>
-  <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Google Play\'den yükle</string>
-  <string name="yandex_ads_internal_tools_call_to_action_text">Перейти</string>
-  <string name="yandex_ads_internal_tools_domain_text">alan adı</string>
-  <string name="yandex_ads_internal_tools_price_text">fiyat</string>
-  <string name="yandex_ads_internal_tools_rating_text">derecelendirme</string>
-  <string name="yandex_ads_internal_tools_review_count_text">inceleme sayısı</string>
-  <string name="yandex_ads_internal_tools_sponsored_text">sponsorlu</string>
-  <string name="yandex_ads_internal_tools_title_text">Otomobillerde lüks ve ucuz otomobillerin satın alınması ve Авто.ру</string>
-  <string name="yandex_ads_internal_tools_warning_text">KONTRENDİKASYONLAR var. Kontrendikasyonları olan bir uzmana danışın. Bir uzmana danışın</string>
   <string name="year">yıl</string>
   <string name="yesterday">Dün</string>
   <string name="yt_subscription_notification_setting_title">Abonelik bildirimleri</string>

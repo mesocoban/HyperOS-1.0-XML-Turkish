@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir sorun oluştu.</string>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
@@ -60,6 +60,7 @@
   <string name="app_detail_other_version">Sürüm: %1$s</string>
   <string name="app_get_source">Uygulama kaynağı</string>
   <string name="app_info_permissions">İzinler</string>
+  <string name="app_info_permissions_format">%1$s %2$s</string>
   <string name="app_info_size">Boyut: %1$s</string>
   <string name="app_info_version">Sürüm: %1$s</string>
   <string name="app_info_version_replace">Sürüm: %1$s -&gt; %2$s</string>
@@ -114,7 +115,6 @@
   <string name="cb_back">Geri butonu</string>
   <string name="character_counter_content_description">%2$d karakterden %1$d tanesi girildi</string>
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d/%2$d değeri aşıldı</string>
-  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="check_virus_app">Virus bulundu</string>
   <string name="checked_unknow_app">"Bilinmeyen uygulama algılandı"</string>
   <string name="child_account_install_parent_auth">Ebeveyn doğrulaması</string>
@@ -137,6 +137,7 @@
   <string name="copy">Kopyala</string>
   <string name="cpu_compatible_error">"Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir. Daha fazlasını öğrenmek için dokunun."</string>
   <string name="cta_button_text_cancel">Çık</string>
+  <string name="custom_toast_with_clickable_span">%1$s %2$s</string>
   <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="default_net_loading">Yükleniyor, lütfen bir dakika bekleyin</string>
@@ -151,6 +152,7 @@
   <string name="dev_com_contact_input">Kişi adını girin</string>
   <string name="dev_com_contact_text">Kişi</string>
   <string name="dev_com_content_input">"Neden itiraz ettiğinizi bize bildirin"</string>
+  <string name="dev_com_content_length">%1$s/200</string>
   <string name="dev_com_content_text">İtiraz nedeni</string>
   <string name="dev_com_devname_input">Tam adınızı girin</string>
   <string name="dev_com_devname_text">Geliştirici ismi</string>
@@ -308,6 +310,7 @@
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_start">Desen başladı</string>
+  <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
   <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
   <string name="manage_users">Kullanıcıları Yönet</string>
   <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
@@ -318,6 +321,7 @@
   <string name="material_minute_suffix">%1$s dakika</string>
   <string name="material_slider_range_end">Aralık sonu</string>
   <string name="material_slider_range_start">Aralık başı</string>
+  <string name="material_slider_value">Değer</string>
   <string name="material_timepicker_am">ÖÖ</string>
   <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
   <string name="material_timepicker_hour">Saat</string>
@@ -445,10 +449,6 @@
   <string name="more">Daha fazla</string>
   <string name="morning">Sabah</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
-  <string name="mtrl_checkbox_button_icon_path_group_name">simge</string>
-  <string name="mtrl_checkbox_button_icon_path_name">simge yolu</string>
-  <string name="mtrl_checkbox_button_path_group_name">düğme</string>
-  <string name="mtrl_checkbox_button_path_name">düğme yolu</string>
   <string name="mtrl_checkbox_state_description_checked">Kontrol edildi</string>
   <string name="mtrl_checkbox_state_description_indeterminate">Kısmi olarak kontrol edildi</string>
   <string name="mtrl_checkbox_state_description_unchecked">Kontrol edilmedi</string>
@@ -461,7 +461,6 @@
   <string name="mtrl_picker_announce_current_selection_none">yok</string>
   <string name="mtrl_picker_cancel">İptal</string>
   <string name="mtrl_picker_confirm">Tamam</string>
-  <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
   <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
   <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
@@ -475,7 +474,6 @@
   <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-  <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
   <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
   <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
   <string name="mtrl_picker_save">Kaydet</string>
@@ -653,31 +651,15 @@
   <string name="passport_to_verify_code_login">SMS yoluyla oturum açın</string>
   <string name="passport_unknown_error">Bilinmeyen hata</string>
   <string name="passport_unknown_host_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-  <string name="passport_user_agreement_hint_3rd_app">
-    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt; ile Xiaomi Hesabı\'nın &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_3rd_app_mobile">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Mobile Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_3rd_app_with_telecom">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;eSörf hesabının şart ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_3rd_app_with_unicom">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Unicom Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_default">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data>
-  </string>
+  <string name="passport_user_agreement_hint_3rd_app"><Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt; ile Xiaomi Hesabı\'nın &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Mobile Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;eSörf hesabının şart ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Unicom Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_default"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data></string>
   <string name="passport_user_agreement_hint_first_login">"Telefon numaranızı ilk kez kullanıyorsanız otomatik  bir hesap oluşturacağız."</string>
-  <string name="passport_user_agreement_hint_with_mobile">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Mobil doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_with_telecom">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca eSörf hesabı doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
-  </string>
-  <string name="passport_user_agreement_hint_with_unicom">
-    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
-  </string>
+  <string name="passport_user_agreement_hint_with_mobile"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Mobil doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_with_telecom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca eSörf hesabı doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_with_unicom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
   <string name="passport_user_avatar_update_title">Profil fotoğrafını değiştir</string>
   <string name="passport_user_avatar_uploading">Bir saniye…</string>
   <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi Hesap Kimliği</string>
@@ -753,14 +735,11 @@
   <string name="permission_name_system_camera">Sistem kamerasını kullanma</string>
   <string name="permission_name_write_calendar">Takvim etkinlikleri ekleme ve düzenleme</string>
   <string name="permission_name_write_external_storage">Öğeleri cihaz depolama alanına kaydetme</string>
+  <string name="permission_num">%1$s</string>
   <string name="please_input_install_app_name">Uygulama adı girin</string>
   <string name="please_input_phone_password">Ekran kilidini girin</string>
   <string name="pm">ÖS</string>
   <string name="pref_ads">Öneriler</string>
-  <string name="pref_key_about_privacy_title">Gizlilik Politikası</string>
-  <string name="pref_key_app_appeal">Uygulamayı talep et</string>
-  <string name="pref_key_developer_services">Geliştirici hizmetleri</string>
-  <string name="pref_key_shelf_app">Uygulamayı GetApps\'te listele</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="prepare_install">Kurulum hazırlanıyor…</string>
   <string name="prohibit_isntall">Yüklemeyi yasakla</string>
@@ -782,9 +761,7 @@
   <string name="pure_introduction_title4">Gizlilik koruması</string>
   <string name="pure_introduction_title5">Dolandırıcılık koruması</string>
   <string name="pure_mode_des">Güvenli mod, cihazınıza yüklenen her uygulamanın Xiaomi güvenlik testlerinden geçmesini sağlar.</string>
-  <string name="pure_mode_install_completed_setting">
-    <u>Bu uygulamayı yönetin</u>
-  </string>
+  <string name="pure_mode_install_completed_setting"><u>Bu uygulamayı yönetin</u></string>
   <string name="pure_mode_install_completed_tip1">· Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
   <string name="pure_mode_install_completed_tip2">"· Her uygulamanın bilgilerini bağımsız olarak depolayın"</string>
   <string name="pure_mode_install_completed_tip3">· Yanıltıcı ve zorla uygulama kurulumunu önleyin</string>
@@ -864,6 +841,7 @@
   <string name="security_mode_close_feedback">Güvenli modu kullandığınız için teşekkürler</string>
   <string name="security_mode_close_tips_service_list_title">Güvenlik korumasının faydaları</string>
   <string name="security_mode_feedback_commit">Geri bildirim gönder</string>
+  <string name="security_mode_feedback_input_count">%1$s/50</string>
   <string name="security_mode_feedback_multiple_choice">" (çoktan seçmeli)"</string>
   <string name="security_mode_feedback_reason">Güvenli modu kapatmamın ana nedeni</string>
   <string name="security_mode_feedback_reason_input_hint">Lütfen görüş ve önerilerinizi giriniz～</string>
@@ -963,12 +941,6 @@ bilgi edinin"</string>
   <string name="settings_security_mode_title_off_msg">Güvenli mod</string>
   <string name="side_sheet_accessibility_pane_title">Yan Sayfa</string>
   <string name="single_authorize">Bir kez izin ver</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
-  <string name="size_peta_byte">PB</string>
-  <string name="size_tera_byte">TB</string>
   <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
   <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
   <string name="solar_term_clear_and_bright">Açık ve parlak</string>

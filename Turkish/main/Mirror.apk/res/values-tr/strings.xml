@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -38,6 +38,7 @@
   <string name="actionbar_button_up_description">Geri</string>
   <string name="afternoon">Öğleden sonra</string>
   <string name="am">ÖÖ</string>
+  <string name="app_name">logProvider</string>
   <string name="app_no_storage_permission">Önce %1$s uygulamasına Ayarlar &gt; Uygulamalar &gt; %2$s &gt; İzinler menüsünden depolama alanına erişme izni verin</string>
   <string name="app_not_support_subscreen">"Bu pencere büyütülemiyor"</string>
   <string name="app_opened_in_new_window">Bu uygulama yeni bir pencerede açıldı</string>
@@ -195,6 +196,7 @@
   <string name="invisible_mode_toast">Önce Gizli modu kapatın</string>
   <string name="keyboard_error_subtitle">\"%s\" üzerinde kilidi açın</string>
   <string name="keyboard_error_title">Çok fazla deneme</string>
+  <string name="keyboard_key">\"</string>
   <string name="keyboard_key_back">Geri</string>
   <string name="keyboard_key_exit">Çıkış</string>
   <string name="keyboard_key_space">Boşluk</string>
@@ -404,6 +406,7 @@ Bilgisayarınızda başka bir oturum başlatabilirsiniz."</string>
   <string name="pad_settings_pc_trusted_title">Otomatik bağlan</string>
   <string name="pad_settings_pc_use_tile">Bu özellik hakkında</string>
   <string name="pad_settings_phone_handoff_summary">Handoff\'u Xiaomi Hesabınızla ilişkilendirilmiş diğer cihazda uygulamalar, pano, videolar ve diğer ögelerle kullanabilirsiniz</string>
+  <string name="pad_settings_phone_handoff_title">Dokunma</string>
   <string name="pc_account_connect_cta_again">Bilgisayarınıza tekrar bağlanın</string>
   <string name="pc_cooperate_duplicate_title">Bilgisayar masaüstü</string>
   <string name="pc_cooperate_extend_title">Bilgisayar masaüstü uzantısı</string>
@@ -483,9 +486,7 @@ Bilgisayarınızda başka bir oturum başlatabilirsiniz."</string>
   <string name="seize_title">Ekran paylaşımını durdur</string>
   <string name="send">Gönder</string>
   <string name="settings_bluetooth_enable_summary">Yakındaki cihazları bulabilmek için Bluetooth\'u açın. Şimdi açılsın mı?</string>
-  <string name="settings_connect_more_help">
-    <u>Yardım</u>
-  </string>
+  <string name="settings_connect_more_help">    <u>Yardım</u>  </string>
   <string name="settings_connect_summary1">Bilgisayarınızda Mi Smart Share\'i açın ve \"Ekran Birleşimi\"ni seçin. Mi Smart Share\'i www.miui.com adresinden indirebilirsiniz.</string>
   <string name="settings_connect_summary2">Bilgisayar ekranındaki QR kodunu mobil cihazınızla tarayın. Bunu yapmak için birden fazla sistem uygulaması (ör. Tarayıcı, Kamera, Mi Tarayıcı) kullanabilirsiniz.</string>
   <string name="settings_connect_title1">Adım 1</string>
@@ -554,13 +555,6 @@ Bilgisayarınızda başka bir oturum başlatabilirsiniz."</string>
   <string name="share_to_settings_title">Ara bağlantı hizmetlerini açın</string>
   <string name="sink_pc_click_again_to_finish_extent">Ekran uzantısını kapatmak için tekrar dokunun</string>
   <string name="sink_pc_click_again_to_finish_mirror">Ekranın yansıtılmasını durdurmak için tekrar dokunun</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
-  <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s. %2$s</string>
-  <string name="size_tera_byte">TB</string>
   <string name="softap_connect_fail_message">"Bağlanılamadı"</string>
   <string name="softap_dialog_cancel">İptal</string>
   <string name="softap_dialog_message">"Yakınlarda kullanılabilir Wi-Fi ağı yok. Bunun yerine hotspot'a bağlanılsın mı?"</string>

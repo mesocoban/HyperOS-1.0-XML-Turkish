@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -35,6 +35,7 @@
   <string name="action_release_file_cache">Önbelleği temizle</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="ad_download">İndir</string>
+  <string name="add_one">(1)</string>
   <string name="add_private">Dosyaları özel hale getir</string>
   <string name="add_private_files">Dosya ekle</string>
   <string name="add_to_widget">Araca ekle</string>
@@ -61,11 +62,11 @@
   <string name="app_name_screenshot">Ekran görüntüleri</string>
   <string name="available_size">Kullanılabilir: %s</string>
   <string name="big5_summary">Geleneksel Çince için varsayılan Windows kodlaması</string>
+  <string name="big5_title">BIG5</string>
   <string name="by_date">Değiştirilme zamanı</string>
   <string name="by_name">İsim</string>
   <string name="by_size">Boyut</string>
   <string name="by_type">Tür</string>
-  <string name="byteShort">B</string>
   <string name="call_notification_answer_action">Yanıtla</string>
   <string name="call_notification_answer_video_action">Video</string>
   <string name="call_notification_decline_action">Reddet</string>
@@ -95,6 +96,7 @@
   <string name="category_all">Tüm dosyalar</string>
   <string name="category_apk">APK\'ler</string>
   <string name="category_bluetooth">Bluetooth</string>
+  <string name="category_cloud_drive">Mi Drive</string>
   <string name="category_document">Belgeler</string>
   <string name="category_download">İndirilenler</string>
   <string name="category_editor_mode">Düzenle</string>
@@ -103,25 +105,28 @@
   <string name="category_file">Dosyalar</string>
   <string name="category_files">Dosyalar</string>
   <string name="category_installed_app">Yüklü uygulamalar</string>
+  <string name="category_midrive">Mi Drive</string>
   <string name="category_more">Daha fazla</string>
   <string name="category_music">Müzik</string>
   <string name="category_other">Diğer</string>
   <string name="category_photo">Fotoğraflar</string>
   <string name="category_picture">Görüntüler</string>
+  <string name="category_qq">QQ</string>
   <string name="category_recent">Son kullanılanlar</string>
   <string name="category_source">Kaynak</string>
+  <string name="category_taobao">Taobao</string>
   <string name="category_theme">Temalar</string>
   <string name="category_time">Zaman</string>
   <string name="category_type_document">Belgeler</string>
   <string name="category_type_meida">Medya</string>
   <string name="category_type_other">Diğer</string>
   <string name="category_video">Videolar</string>
+  <string name="category_wechat">WeChat</string>
   <string name="category_zip">Arşivler</string>
   <string name="cdd_message">"Android 11 kısıtlamalarından dolayı üçüncü taraf uygulamalarda oluşturulan dosyalardan bazılarını Dosya Yöneticisi'nde görüntüleyemezsiniz."</string>
   <string name="cdd_title">Uyarı</string>
   <string name="character_counter_content_description">%2$d karakterden %1$d tanesi girildi</string>
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d/%2$d değeri aşıldı</string>
-  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="chip_text">Çip metni</string>
   <string name="clean_hint">Yer açmak için dokunun</string>
   <string name="clean_hint_pad">Depolama alanında yer açmak için çöp kutusunu temizleyin</string>
@@ -225,6 +230,13 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="display_mode">Ekran</string>
   <string name="display_setting">Görüntülenen ögeler</string>
   <string name="doc_all">Tümü</string>
+  <string name="doc_epub">EPUB</string>
+  <string name="doc_pdf">PDF</string>
+  <string name="doc_ppt">PPT</string>
+  <string name="doc_txt">TXT</string>
+  <string name="doc_word">DOC</string>
+  <string name="doc_wps">WPS</string>
+  <string name="doc_xls">XLS</string>
   <string name="downloading">İndiriliyor</string>
   <string name="drag_not_support_with_dir">"Klasörler yeniden düzenlenemez veya gönderilemez"</string>
   <string name="early_morning">Sabah</string>
@@ -274,6 +286,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="favorite_photo">Fotoğraflar</string>
   <string name="favorite_ringtone">Zil sesleri</string>
   <string name="favorite_screen_cap">Ekran görüntüleri</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Okunabilir: </string>
   <string name="file_info_canwrite">Yazılabilir: </string>
   <string name="file_info_ishidden">Gizli: </string>
@@ -359,6 +372,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="function_set_private">Dosyaları görüntülemek ve şifrelemek için</string>
   <string name="function_use_imei">IMEI\'ye erişmek ve dosyaları şifrelemek için</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için varsayılan Windows kodlaması</string>
+  <string name="gbk_title">GBK</string>
   <string name="go_ahead">Aç</string>
   <string name="grid_mode">Izgara görünümü</string>
   <string name="group_title">%1$s uygulamasından %2$s</string>
@@ -419,6 +433,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="material_slider_range_end">Aralık sonu</string>
   <string name="material_slider_range_start">Aralık başı</string>
   <string name="menu_item_cleanup">Temizle</string>
+  <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Dosyaları aktar</string>
   <string name="menu_item_router">Yönlendirici</string>
   <string name="menu_item_search">Arama</string>
@@ -428,6 +443,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="menu_item_sort_date">Değiştirilme zamanı</string>
   <string name="menu_item_sort_name">Ad</string>
   <string name="menu_item_sort_type">Tür</string>
+  <string name="menu_item_usb">USB</string>
   <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="message_request_manage_external_storage_perm">Dosya Yöneticisi\'nin cihazınızdaki dosyaları yönetebilmesi için dosyalara erişim izni gerekir. Bu izni Ayarlar menüsünde verebilirsiniz.</string>
   <string name="mi_router_label">Yönlendirici</string>
@@ -459,6 +475,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="mirror_storage_internal_desc">Mobil telefon depolama alanı</string>
   <string name="mirror_tip_add_file">Klasör oluştur</string>
   <string name="mirror_tip_backward">Geri</string>
+  <string name="mirror_tip_cloud">Mi Drive</string>
   <string name="mirror_tip_forward">İlet</string>
   <string name="mirror_tip_grid">Izgara</string>
   <string name="mirror_tip_list">Liste</string>
@@ -544,15 +561,13 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="move_to">Şuraya taşı…</string>
   <string name="msg_set_password">Öncelikle şifre belirleyin</string>
   <string name="mtp_device">Medya cihazı (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
   <string name="mtrl_exceed_max_badge_number_content_description">%1$d yeni bildirim</string>
   <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
   <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
   <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-  <string name="mtrl_picker_cancel">İptal</string>
-  <string name="mtrl_picker_confirm">Tamam</string>
-  <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
   <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
   <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
@@ -564,7 +579,6 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-  <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
   <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
   <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
   <string name="mtrl_picker_save">Kaydet</string>
@@ -695,6 +709,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="operation_upload_use_data">Yükle</string>
   <string name="otg_data_transfer_success">Aktarım başarıyla tamamlandı</string>
   <string name="otg_data_transferring">"Dosyalar aktarılıyor… Harici depolamanın bağlantısını kesmeyin."</string>
+  <string name="otg_file_security_note">OGT Güvenlik</string>
   <string name="overwrite_msg">\"%s\" zaten mevcut. Yeni dosya ile değiştirmek için dokunun.</string>
   <string name="pad">Tablet</string>
   <string name="pad_homepage_tab_file_view_phone">Tablet</string>
@@ -719,7 +734,6 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="permission_storage_desc_pad">Fotoğrafları ve belgeleri cihazınıza kaydetmek için</string>
   <string name="permission_storage_title">Cihaz depolama alanına eriş</string>
   <string name="permission_storage_title_pad">Cihaz depolama alanına eriş</string>
-  <string name="petabyteShort">PB</string>
   <string name="phone">Depolama</string>
   <string name="phone_storage">Depolama</string>
   <string name="phone_storage_apk_title">APK\'ler: </string>
@@ -746,9 +760,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_policy_renew">Güncellenen Gizlilik Politikası</string>
-  <string name="privacy_policy_renew_content">
-    <Data>\"Dosya Yöneticisinin &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, okuyun ve Devam etmeden önce Gizlilik Politikası\'nın yeni sürümünü kabul edin.\"</Data>
-  </string>
+  <string name="privacy_policy_renew_content">    <Data>\"Dosya Yöneticisinin &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, okuyun ve Devam etmeden önce Gizlilik Politikası\'nın yeni sürümünü kabul edin.\"</Data>  </string>
   <string name="privacy_recall_alert_description" formatted="false">İzni geri çekebilmek için Mi Drive\'daki tüm ögeleri temizleyin. Ögeleri temizlemek için aşağıdaki adımları takip edin:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. \'\'Tümünü seç\'\' tuşunu görünür yapmak için Mi Drive başlangıç sayfasında bir ögeye basılı tutun. Tek seferde 200 dosyayı silmek için bu tuşu seçin ve ögeleri silin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Sonrasında, son silinen ögelerinizi temizleyin.</string>
   <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Silmeden önce ögelerinizi yedeklemenizi öneririz. Bunu yapmak için, i.mi.com adresini ziyaret edin, Mi Drive'a tıklayın ve ögelerinizi bir bilgisayara indirin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Son silinen ögelerin, silme işleminden sonra geri yüklenemeyeceğini unutmayın."</string>
   <string name="privacy_recall_confirm_button">Geri çek</string>
@@ -812,6 +824,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="search_description">Cihazdaki tüm dosyaları ara</string>
   <string name="search_empty_view_hint">"Sonuç bulunamadı"</string>
   <string name="search_error_hint">Ara</string>
+  <string name="search_file_type_apk">Apk</string>
   <string name="search_file_type_doc">Belgeler</string>
   <string name="search_file_type_music">Müzik</string>
   <string name="search_file_type_picture">Fotoğraf</string>
@@ -839,7 +852,12 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="set_pattern">Şifrenizi yükseltin</string>
   <string name="set_pattern_btn">Ayarla</string>
   <string name="set_pattern_msg">Şifrenizi yeniden belirleyin. Gizlilik koruma şifresi aynı zamanda fotoğraf, mesajlar ve notlar için de geçerlidir.</string>
+  <string name="sign_percent">%</string>
   <string name="size_lv1">%d KB\'den küçük</string>
+  <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+  <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
   <string name="size_lv6">%d GB\'den büyük</string>
   <string name="skip">Atla</string>
   <string name="skip_file">Atla</string>
@@ -903,7 +921,6 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
   <string name="tab_local">YEREL</string>
   <string name="tab_more">Daha fazla</string>
   <string name="tab_source">Uygulamalar</string>
-  <string name="terabyteShort">TB</string>
   <string name="text_select_all">Tümünü seç</string>
   <string name="text_select_nothing">Tüm seçimleri kaldır</string>
   <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>

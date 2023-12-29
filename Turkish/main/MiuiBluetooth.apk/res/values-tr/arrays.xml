@@ -1,25 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="ble_profile_mi_band">
-    <item>Çalarken titret</item>
-    <item>Mesaj alırken titret</item>
-    <item>Alarm çaldığında titret</item>
-  </string-array>
-  <string-array name="ble_profile_mi_key">
-    <item>Fotoğraf çek</item>
-    <item>Telefonu bul</item>
-    <item>Mi Key\'i bul</item>
-  </string-array>
-  <string-array name="bluetooth_a2dp_codec_titles">
-    <item>Sistem Seçimini Kullan (Varsayılan)</item>
-    <item>Qualcomm® aptX™ ses</item>
-    <item>Qualcomm® aptX™ HD ses</item>
-  </string-array>
-  <string-array name="bluetooth_audio_active_device_summaries">
-    <item>
-    </item>
-    <item>, etkin</item>
-    <item>, etkin (medya)</item>
-    <item>, etkin (telefon)</item>
-  </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Çalarken titret</item>
+        <item>Mesaj alırken titret</item>
+        <item>Alarm çaldığında titret</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fotoğraf çek</item>
+        <item>Telefonu bul</item>
+        <item>Mi Key\'i bul</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, etkin</item>
+        <item>, etkin (medya)</item>
+        <item>, etkin (telefon)</item>
+    </string-array>
 </resources>

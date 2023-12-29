@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -57,6 +57,8 @@
   <string name="app_name">Provizyon</string>
   <string name="application_package_introduction">Paket yükleyici, kurulum öncesi tarama ve kurulum sonrası uygulama önerisi hizmetleri dahil üçüncü taraf uygulamaları yüklemek için kullanılır.</string>
   <string name="application_permissions">Uygulama izinleri</string>
+  <string name="aquire_device_info">Cihaz bilgilerine erişim</string>
+  <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
   <string name="back">Geri</string>
   <string name="backup_introduction">Cihazınızda ögeleri yedeklemek ve depolamak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="bluetooth_introduction">Bluetooth, sistem tarafından kablosuz iletişim için kullanılır. Bluetooth\'un normal çalışabilmek için aşağıdaki izinlere ihtiyacı vardır:</string>
@@ -66,14 +68,10 @@
   <string name="calculator_introduction">Bu uygulamayı hesap yapmak, birim ve para birimlerini çevirmek ve aylık konut kredisi geri ödemelerinizi tahmin etmek için kullanabilirsiniz.</string>
   <string name="camera_application_introduction">Bu uygulamayı fotoğraf ve video çekmek için kullanabilirsiniz.</string>
   <string name="camera_introduction">Kamera\'yı fotoğraf ve video çekmek için kullanabilirsiniz.</string>
-  <string name="carousel_cookies_content">
-    <Data>\"Duvar kağıdı Döngüsü\'ndeki görüntülere ve hikayelere dokunduğunuzda, tam sürümleri tarayıcınızda açılacak. Güvenilir üçüncü taraf içerik sağlayıcımız, ilginizi çekecek ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz, &lt;a href=\"%1$s\"&gt;Çerez Politikası&lt;/a&gt;\'nda tanımlandığı gibi tarayıcınıza çerez yerleştirecektir. Çerezleri reddederseniz, Duvar kağıdı Döngüsü yine de çalışacaktır ama içeriği ve önerileri artık sizinle ilgili olamayabilir. Tercihlerinizi istediğiniz zaman Ayarlar\'da değiştirebilirsiniz.\"</Data>
-  </string>
+  <string name="carousel_cookies_content">    <Data>\"Duvar kağıdı Döngüsü\'ndeki görüntülere ve hikayelere dokunduğunuzda, tam sürümleri tarayıcınızda açılacak. Güvenilir üçüncü taraf içerik sağlayıcımız, ilginizi çekecek ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz, &lt;a href=\"%1$s\"&gt;Çerez Politikası&lt;/a&gt;\'nda tanımlandığı gibi tarayıcınıza çerez yerleştirecektir. Çerezleri reddederseniz, Duvar kağıdı Döngüsü yine de çalışacaktır ama içeriği ve önerileri artık sizinle ilgili olamayabilir. Tercihlerinizi istediğiniz zaman Ayarlar\'da değiştirebilirsiniz.\"</Data>  </string>
   <string name="carousel_cookies_subtitle">Çerezler, Kilit ekranı deneyiminizi kişiselleştirmemizi sağlar.</string>
   <string name="carousel_cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
-  <string name="carousel_privacy">
-    <Data>\"Duvar kağıdı Döngüsü\'nü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Kullanıcı Sözleşmesini&lt;/a&gt; okuyun ve kabul edin.\"</Data>
-  </string>
+  <string name="carousel_privacy">    <Data>\"Duvar kağıdı Döngüsü\'nü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Kullanıcı Sözleşmesini&lt;/a&gt; okuyun ve kabul edin.\"</Data>  </string>
   <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
   <string name="carousel_setting_sub">Cihazınızın kilidini açtığınız her seferinde Duvar kağıdı Döngüsü size yeni hikayeler gösterecek</string>
   <string name="carrier_introduction_china">Size daha iyi hizmet sunabilmek için cihazınızda çalışan işlemler ( SystemHelper, RegService ve Operatör Hizmetleri), cihazınızla ve SIM kartınızla ilgili bilgileri (Iincluding IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresi, sistem sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri dahil) periyodik olarak gönderebilir, ayrıca yaklaşık konum bilgilerini de (bölge, koordinatlar, alan tanımlayıcı ve baz istasyonu kimliği dahil) operatörünüze WLAN, mobil ağ veya ücretsiz SMS aracılığıyla gönderebilir. Operatör, ilgili bilgileri yalnızca hizmet kalitesini artırmak veya özelleştirilmiş hizmet veya teknolojileri sunmak için kullanmayı garanti eder ve sizin kişisel olarak açığa çıkmanıza olanak sağlayabilecek bilgileri hiçbir şekilde üçüncü taraflarla paylaşamaz. Özel operatör beyanı esastır. Bu hizmetin kullanım ücretleri ile ilgili operatörünüze danışın.</string>
@@ -197,6 +195,8 @@
   <string name="font_hint_normal">Metin boyutunu artır</string>
   <string name="font_settings_sub_title">Sistem yazı tipini seçin</string>
   <string name="font_settings_title">Yazı tipi ayarları</string>
+  <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+  <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
   <string name="font_use_case_text_example">Gövde</string>
   <string name="font_use_case_title_example">Başlık</string>
   <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
@@ -443,6 +443,7 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="permission_account">Cihazdaki hesaplara erişin</string>
   <string name="permission_account_introduction">Mi Hesabı ile oturum açmak için</string>
   <string name="permission_application_package_introduction">Yükleme paketlerini ayrıştırmak ve taramak amacıyla depolama alanına erişmek için</string>
+  <string name="permission_application_scope_description">"Bu izinleri yalnızca güvenlik doğrulaması yaparken kullanırız ve bunları başka hiçbir amaçla kullanmayacağız."</string>
   <string name="permission_authority_describe">Bu cihazda yüklü uygulamaların listesine erişim</string>
   <string name="permission_authority_describe_applist_summary">Uygulama izinlerini yönetmek için</string>
   <string name="permission_backup">Depolama alanına erişim</string>
@@ -489,6 +490,7 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="permission_make_a_call_fast_application_summary">Arama yapması için hızlı uygulamalara izin vermek için;</string>
   <string name="permission_media_storage_summary">Dosyalara erişirken uygulamaların gizlilikle ilgili izinleri nasıl kullandığını kontrol etmek için</string>
   <string name="permission_message_introduction">Engelli kişilere mesaj göndermek için</string>
+  <string name="permission_number">读取本机号码</string>
   <string name="permission_number_introduction">Araç sistemleri ve Bluetooth kulaklıklar ile Bluetooth bağlantısı kurmak için</string>
   <string name="permission_phone_imei_device">Cihazları tanımlamak üzere IMEI numarasına erişmek için</string>
   <string name="permission_phone_network">İndirilebilen ögeleri optimize etmek ve ayarlamak üzere ağ türüne erişmek için</string>
@@ -576,10 +578,11 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="privacy_title">Şartlar &amp; Gizlilik Politikası</string>
   <string name="protect_persoanl_info_statement">Yürürlükteki yasalar, yönetmelikler ve gizlilik politikaları gereğince kişisel bilgilerinizi koruyacağız.</string>
   <string name="provision_back">Geri</string>
-  <string name="provision_inputmethod_policy_description">&lt;Data&gt;Seçili klavyenizin &lt;a href=%1$s&gt;Gizlilik Politikası&lt;/a &gt;\'nı görüntüleyin.&lt;/Data&gt;</string>
+  <string name="provision_inputmethod_policy_description">    <Data>Seçili klavyenizin &lt;a href=%1$s&gt;Gizlilik Politikasını&lt;/a &gt; görüntüleyin.</Data>  </string>
   <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
   <string name="provision_next">İleri</string>
   <string name="provision_skip_underline">Atla</string>
+  <string name="read_application_info">Uygulama bilgilerine erişim</string>
   <string name="recommend_font">MiSans</string>
   <string name="recommended_font_mark">Önerilen</string>
   <string name="recorder_introduction">Bu uygulamayı ses kaydetmek ve kayıtları cloud alanına yedeklemek için kullanabilirsiniz.</string>
@@ -594,6 +597,8 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="require_network_and_authority_statement">Normal çalışabilmesi için bu hizmetin internete bağlanması gerekir ve aşağıdaki izinlere ihtiyaç duyar:</string>
   <string name="require_network_authority_statement">Normal çalışabilmesi için bu hizmetin internete bağlanması gerekir ve aşağıdaki izinlere ihtiyaç duyar:</string>
   <string name="require_network_authority_statement_dual">Normal çalışabilmesi için bu hizmetin internete bağlanması gerekir ve aşağıdaki izinlere ihtiyaç duyar:</string>
+  <string name="safe_open_service">Güvenli açık hizmetleri</string>
+  <string name="safe_open_service_introduction">Güvenli açık hizmetler geliştiricilere yardımcı olur ve kullanıcıları ve gizliliklerini korumak için sistem düzeyinde güvenlik özellikleri sağlar.</string>
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>
@@ -605,9 +610,9 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="send">Gönder</string>
   <string name="service_agreement">"Şartlar ve koşullar'ı okudum ve kabul ediyorum."</string>
   <string name="service_company_adjust_content">Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi</string>
-  <string name="service_fast_pairing_policy">&lt;Data&gt;Devam etmeden önce &lt;a href=%1$s&gt;Mi Link Gizlilik Politikası&lt;/a &gt;\'nı okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="service_fast_pairing_policy">    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>  </string>
   <string name="service_interconnection_communication">Xiaomi İnternet İletişim Hizmetleri</string>
-  <string name="service_location_share_policy">&lt;Data&gt;Devam etmeden önce &lt;a href=%1$s&gt;Konum hizmetleri Gizlilik Bildirimi&lt;/a &gt;\'ni okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="service_location_share_policy">    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>  </string>
   <string name="service_mi_account">Xiaomi Hesabı</string>
   <string name="service_name_MIUIDaemon">Sistem Daemon</string>
   <string name="service_name_address_dialing">Kişiler ve Telefon</string>
@@ -638,14 +643,11 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="service_name_security">Güvenlik</string>
   <string name="service_name_service_framework">Mi Hizmet Çerçevesi</string>
   <string name="service_name_systemdesktop">Ana ekran hizmet eklentisi</string>
-  <string name="service_policy">
-    <Data>&lt;a href=%1$s&gt;Gizlilik Politikasımızı&lt;/a &gt; okuyup kabul ediniz.</Data>
-  </string>
+  <string name="service_policy">    <Data>&lt;a href=%1$s&gt;Gizlilik Politikasımızı&lt;/a &gt; okuyup kabul ediniz.</Data>  </string>
   <string name="service_policy_adjust_content">Xunlei Gizlilik Politikası</string>
-  <string name="service_policy_download">&lt;Data&gt;Devam etmeden önce &lt;a href=%1$s&gt;Xunlei Gizlilik Politikası&lt;/a &gt; ve &lt;a href=%1$s&gt;Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a &gt;\'ni okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="service_policy_download">    <Data>Devam etmeden önce &lt;a href=%1$s&gt;Xunlei Gizlilik Politikası&lt;/a &gt; ve &lt;a href=%1$s&gt;Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a &gt;\'ni okuyun ve kabul edin.</Data>  </string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
-  <string name="service_security_over_r">
-    <Data>&lt;a href=%1$s&gt;Gizlilik Politikamızı&lt;/a &gt;</Data> okuyup kabul edin</string>
+  <string name="service_security_over_r">    <Data>&lt;a href=%1$s&gt;Gizlilik Politikamızı&lt;/a &gt;</Data> okuyup kabul edin  </string>
   <string name="service_sim_activation">SIM kart aktivasyonu</string>
   <string name="servicestate_title">Temel hizmetler hakkında beyan</string>
   <string name="setting_locale">Bölge ayarlanıyor…</string>
@@ -708,6 +710,8 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="system_update_title">Sistem Güncellemeleri</string>
   <string name="systemdesktop_introduction">Ana ekran hizmet eklentisi, Ana ekran, sistem arayüzü ve ekran görüntüleri gibi temel özellikleri sağlar.</string>
   <string name="term_condition_detail">"Kilit ekranınıza günlük iletilecek çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik, izniniz olmadan kişiselleştirme için verilerinizi kullanayacaktır. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının &lt;a href =%1$s&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href =%2$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; anlaşmalarını okuyun ve kabul edin."</string>
+  <string name="terms_of_label_period">". "</string>
+  <string name="terms_of_label_separator">", "</string>
   <string name="terms_of_label_space">" "</string>
   <string name="terms_of_use">Şartlar ve koşullar</string>
   <string name="terms_of_use_label_MSA">MSA</string>
@@ -719,12 +723,14 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="terms_of_use_label_ble">Fused konum sağlayıcısı (FLP)</string>
   <string name="terms_of_use_label_cloud">Xiaomi Bulut</string>
   <string name="terms_of_use_label_communication_service">Xiaomi İnternet İletişim Hizmetleri</string>
+  <string name="terms_of_use_label_config_updater">Yapılandırma Güncelleyici</string>
   <string name="terms_of_use_label_finddevice">Cihazı bul</string>
   <string name="terms_of_use_label_game">Oyunlar</string>
   <string name="terms_of_use_label_home">Ana ekran</string>
   <string name="terms_of_use_label_htmlViewer">HTML Görüntüleyici</string>
   <string name="terms_of_use_label_htmlviewer">HTML Görüntüleyici</string>
   <string name="terms_of_use_label_info_assistant">Mi Link</string>
+  <string name="terms_of_use_label_joyose">Joyose</string>
   <string name="terms_of_use_label_landscape">Manzara görünümü</string>
   <string name="terms_of_use_label_mab">MAB</string>
   <string name="terms_of_use_label_mi_account">Xiaomi Hesabı</string>
@@ -737,10 +743,12 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="terms_of_use_label_power_detection">Güç dedektörü</string>
   <string name="terms_of_use_label_power_performance">Pil ve performans</string>
   <string name="terms_of_use_label_quickapp">Hızlı uygulamalar</string>
+  <string name="terms_of_use_label_remote_provisioner">Uzaktan Sağlayıcı</string>
   <string name="terms_of_use_label_secure">Güvenli Unsur Uygulaması</string>
   <string name="terms_of_use_label_simcard">SIM etkinleştirme hizmeti</string>
   <string name="terms_of_use_label_smart_service">Akıllı hizmetler</string>
   <string name="terms_of_use_label_statistics">İstatistikler</string>
+  <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
   <string name="terms_of_use_label_systemhelper">Kişisel kayıtlı hizmetler</string>
   <string name="terms_of_use_label_translation">Tercüme hizmeti</string>
   <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi sürümü)</string>
@@ -759,6 +767,7 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikası'nı kabul etmelisiniz.
 Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikası'nı kabul etmelisiniz."</string>
   <string name="terms_of_use_lable_gms">Google Play hizmetleri</string>
   <string name="terms_of_use_lable_smart_cards">Akıllı kartlar</string>
+  <string name="terms_of_use_lable_vsimcore">MConnService</string>
   <string name="terms_of_use_lable_xmsf">Xiaomi hizmet çerçevesi</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
@@ -818,6 +827,8 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikası'nı kabul etmel
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="verify_application_security">Uygulama güvenliğini doğrulamak için</string>
+  <string name="verify_device_security">Cihaz güvenliğini doğrulamak için</string>
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" şeklinde seslenin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecektir.</string>
   <string name="voice_assist_title">Ses ile uyandır</string>
   <string name="wc_dialog_agree">Kabul et</string>

@@ -1,201 +1,201 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="battery_options">
-    <item>Her zaman yüzdeyi göster</item>
-    <item>Şarj olurken yüzdeyi göster (Varsayılan)</item>
-    <item>"Bu simgeyi gösterme"</item>
-  </string-array>
-  <string-array name="clock_options">
-    <item>Saati, dakikaları ve saniyeleri göster</item>
-    <item>Saati ve dakikayı göster (Varsayılan)</item>
-    <item>"Bu simgeyi gösterme"</item>
-  </string-array>
-  <string-array name="config_statusBarIconsToExclude">
-    <item>döndür</item>
-  </string-array>
-  <string-array name="nav_bar_button_values">
-    <item>pano</item>
-    <item>anahtar</item>
-    <item>boşluk</item>
-  </string-array>
-  <string-array name="nav_bar_buttons">
-    <item>Pano</item>
-    <item>Anahtar kod</item>
-    <item>Döndür onayla. Klavye değiştirici</item>
-    <item>Hiçbiri</item>
-  </string-array>
-  <string-array name="nav_bar_layouts">
-    <item>Kompakt</item>
-    <item>Sol eğilimli</item>
-    <item>Sağ eğilimli</item>
-  </string-array>
-  <string-array name="tile_states_airplane">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_alarm">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_battery">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_bt">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_cameratoggle">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_cast">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_cell">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_color_correction">
-    <item>Bilinmiyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_controls">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_dark">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_dnd">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_dream">
-    <item>Kullanım dışı</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_flashlight">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_font_scaling">
-    <item>Kullanım dışı</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_hotspot">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_internet">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_inversion">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_location">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_mictoggle">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_night">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_onehanded">
-    <item>Bilinmiyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_qr_code_scanner">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_reduce_brightness">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_reverse">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_rotation">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_saver">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_screenrecord">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_wallet">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_wifi">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="tile_states_work">
-    <item>Kullanılamıyor</item>
-    <item>Kapalı</item>
-    <item>Açık</item>
-  </string-array>
-  <string-array name="udfps_accessibility_touch_hints">
-    <item>Sola taşı</item>
-    <item>Aşağı taşı</item>
-    <item>Sağa taşı</item>
-    <item>Yukarı taşı</item>
-  </string-array>
-  <string-array name="wifitrackerlib_wifi_status">
-    <item>Taranıyor…</item>
-    <item>Bağlanıyor…</item>
-    <item>Kimlik doğrulanıyor…</item>
-    <item>IP adresi alınıyor…</item>
-    <item>Bağlandı</item>
-    <item>Askıya alındı</item>
-    <item>Bağlantı kesiliyor…</item>
-    <item>Bağlantı kesildi</item>
-    <item>Başarısız</item>
-    <item>Engellendi</item>
-    <item>Zayıf bağlantıdan geçici olarak kaçınılıyor</item>
-  </string-array>
+    <string-array name="battery_options">
+        <item>Her zaman yüzdeyi göster</item>
+        <item>Şarj olurken yüzdeyi göster (Varsayılan)</item>
+        <item>"Bu simgeyi gösterme"</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Saati, dakikaları ve saniyeleri göster</item>
+        <item>Saati ve dakikayı göster (Varsayılan)</item>
+        <item>"Bu simgeyi gösterme"</item>
+    </string-array>
+    <string-array name="config_statusBarIconsToExclude">
+        <item>döndür</item>
+    </string-array>
+    <string-array name="nav_bar_button_values">
+        <item>pano</item>
+        <item>anahtar</item>
+        <item>boşluk</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Pano</item>
+        <item>Anahtar kod</item>
+        <item>Döndür onayla. Klavye değiştirici</item>
+        <item>Hiçbiri</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Kompakt</item>
+        <item>Sol eğilimli</item>
+        <item>Sağ eğilimli</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Bilinmiyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_dream">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Bilinmiyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Kullanılamıyor</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola taşı</item>
+        <item>Aşağı taşı</item>
+        <item>Sağa taşı</item>
+        <item>Yukarı taşı</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item>Taranıyor…</item>
+        <item>Bağlanıyor…</item>
+        <item>Kimlik doğrulanıyor…</item>
+        <item>IP adresi alınıyor…</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Zayıf bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
 </resources>
