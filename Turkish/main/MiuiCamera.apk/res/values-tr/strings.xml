@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -748,7 +748,9 @@ ve tercihleri otomatik olarak ayarla"</string>
   <string name="confirm_install_scanner_message">"Barkod okuyucu QR kodlarını, barkodları ve daha fazlasını taramanıza olanak sağlar. Uygulamayı yüklemek için internete bağlanmak zorunda değilsiniz."</string>
   <string name="confirm_install_scanner_title">Barkod okuyucuyu yükle</string>
   <string name="confirm_location_alert">Fotoğraf konumlarını hatırla</string>
-  <string name="confirm_location_message">    <Data>Kamera\'ya hoş geldiniz! Fotoğraflarınızı ve videolarınızı çekildikleri konumlarla etiketlemek Galerinizi daha düzenli hale getirecek ve öğeleri daha hızlı bulmanıza yardımcı olacaktır. Konum bilgisi eklemeyi kısıtlarsanız bazı özellikler kullanılamayabilir.&lt;br/&gt;&lt;br/&gt;Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</Data>  </string>
+  <string name="confirm_location_message">
+    <Data>Kamera\'ya hoş geldiniz! Fotoğraflarınızı ve videolarınızı çekildikleri konumlarla etiketlemek Galerinizi daha düzenli hale getirecek ve öğeleri daha hızlı bulmanıza yardımcı olacaktır. Konum bilgisi eklemeyi kısıtlarsanız bazı özellikler kullanılamayabilir.&lt;br/&gt;&lt;br/&gt;Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</Data>
+  </string>
   <string name="confirm_location_title">Fotoğraf konumlarını hatırla?</string>
   <string name="confirm_recording_fail_calling_alert">"Arama sırasında kayıt edilemiyor."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Diğer bir uygulama kayıt amacıyla cihazın mikrofonunu kullanıyor olabilir."</string>
@@ -782,7 +784,9 @@ Altıncı nesil standardı destekleyen %s GHz Wi-Fi ağlarına bağlanmanızı �
   <string name="cosmetic_mirror_title">Cep aynası</string>
   <string name="cta_mimoji_msg">Fun Cam\'e hoş geldiniz! Bu uygulamayı fotoğraf çekmek ve video kaydetmek için kullanabilirsiniz. Normal çalışabilmesi için bu uygulamanın internete bağlanmaya ve kişisel bilgilerinizi toplamak için aşağıdaki izinlere ihtiyacı vardır:</string>
   <string name="cta_mimoji_perm_type">Zorunlu izinler (bu uygulamanın temel özellik ve hizmetleri için kullanılır)</string>
-  <string name="cta_mimoji_user_links">    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Gizlilik Politikası&lt;/a&gt; okuyup kabul edin.</Data>  </string>
+  <string name="cta_mimoji_user_links">
+    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Gizlilik Politikası&lt;/a&gt; okuyup kabul edin.</Data>
+  </string>
   <string name="cta_mimoji_user_tips">"Zorunlu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu uygulamayı kullanamayacaksınız. İsteğe bağlı izinleri onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır. Ayarlar menüsünden her zaman izinleri kısıtlayabilir veya izninizi geri çekebilirsiniz."</string>
   <string name="cta_msg">Kamera\'ya hoş geldiniz! Bu uygulamayı fotoğraf ve video çekmek için kullanabilirsiniz. Bu uygulamanın internete bağlanması gerekir ve aşağıdaki isteğe bağlı izinlere ihtiyaç duyar:</string>
   <string name="cta_perm_cam">Kamerayı kullanma</string>
@@ -799,7 +803,9 @@ Altıncı nesil standardı destekleyen %s GHz Wi-Fi ağlarına bağlanmanızı �
   <string name="cta_perm_type">"İsteğe bağlı izinler (Bunları kullanıyorken ek özellikler kullanıldı)"</string>
   <string name="cta_perm_voice">Mikrofonu kullan</string>
   <string name="cta_perm_voice_desc">Video çekerken ses kaydetmek için</string>
-  <string name="cta_user_tips">    <Data>Bu uygulamayı kullanmadan önce kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Gizlilik Politikamızı&lt;/a&gt; okuyun ve kabul edin.</Data>  </string>
+  <string name="cta_user_tips">
+    <Data>Bu uygulamayı kullanmadan önce kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Gizlilik Politikamızı&lt;/a&gt; okuyun ve kabul edin.</Data>
+  </string>
   <string name="custom_content_unavailable_alert">"Girdiğiniz metin kullanılamıyor. Başka bir şey deneyin."</string>
   <string name="custom_shutter_sound_select">Özel deklanşör sesi</string>
   <string name="custom_sound_art">Retro</string>
@@ -1453,7 +1459,9 @@ daha büyük göstermek için Makro modu kullanın"</string>
   <string name="mimoji_cyberpunk_accessibility">Siberpunk bir kadının kafa çekimi</string>
   <string name="mimoji_cyberpunk_human_accessibility">Siberpunk bir kadının tüm vücut çekimi</string>
   <string name="mimoji_default_accessibility">Varsayılan karakter</string>
-  <string name="mimoji_delete">    <font fgcolor="#ffff0000">Sil</font>  </string>
+  <string name="mimoji_delete">
+    <font fgcolor="#ffff0000">Sil</font>
+  </string>
   <string name="mimoji_delete_dialog_title">Bu avatar şimdi silinsin mi?</string>
   <string name="mimoji_delete_mimoji">Avatarı sil</string>
   <string name="mimoji_delete_success">Başarıyla silindi</string>
@@ -1619,17 +1627,6 @@ daha büyük göstermek için Makro modu kullanın"</string>
   <string name="mode_edit_moving">%1$d. satır %2$d. sütuna taşındı</string>
   <string name="mode_edit_photo_disable">Fotoğraf çekimi durduruldu</string>
   <string name="mode_edit_video_disable">Video kaydı durduruldu</string>
-  <string name="module_feature_ambilight">ambilight</string>
-  <string name="module_feature_clone">klon</string>
-  <string name="module_feature_microfilm">microfilm</string>
-  <string name="module_feature_milive">milive</string>
-  <string name="module_feature_mimojias">mimojias</string>
-  <string name="module_feature_mimojifu">mimojifu</string>
-  <string name="module_feature_mimojifu2">mimojifu2</string>
-  <string name="module_feature_movielens">movielens</string>
-  <string name="module_feature_panorama">panorama</string>
-  <string name="module_feature_videosky">videosky</string>
-  <string name="module_feature_vlog2">vlog2</string>
   <string name="module_name_beauty">Güzelleştirme</string>
   <string name="module_name_capture">Fotoğraf</string>
   <string name="module_name_cinematic">Film</string>
@@ -1758,10 +1755,18 @@ daha büyük göstermek için Makro modu kullanın"</string>
   <string name="multi_window_mode_not_supported">"Kamera çoklu pencere modunda kullanılamıyor"</string>
   <string name="mutex_hdr_quality" formatted="false">"HDR %1s %2sFPS'yi desteklemiyor"</string>
   <string name="network_access_user_notice_agree">Kabul et</string>
-  <string name="network_access_user_notice_message_live_video">    <Data>Bu özelliğe yönelik çıkartmaların sağlanması için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.</Data>  </string>
-  <string name="network_access_user_notice_message_mi_live_video">    <Data>Kısa videolara hoş geldiniz! Hizmetimizin size müzik ve diğer özellikleri sunabilmesi için ağa bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Hizmetimizi kullanmadan önce, &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okuyup kabul ederek uygulamanın internete bağlanmasına izin verin.</Data>  </string>
-  <string name="network_access_user_notice_message_sticker">    <Data>Bu özelliğe yönelik çıkartmaların sağlanması için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.</Data>  </string>
-  <string name="network_access_user_notice_message_voice_caption">    <Data>Konuşmayı metne dönüştürme işlevini sağlamak için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.\"</Data>  </string>
+  <string name="network_access_user_notice_message_live_video">
+    <Data>Bu özelliğe yönelik çıkartmaların sağlanması için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.</Data>
+  </string>
+  <string name="network_access_user_notice_message_mi_live_video">
+    <Data>Kısa videolara hoş geldiniz! Hizmetimizin size müzik ve diğer özellikleri sunabilmesi için ağa bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Hizmetimizi kullanmadan önce, &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okuyup kabul ederek uygulamanın internete bağlanmasına izin verin.</Data>
+  </string>
+  <string name="network_access_user_notice_message_sticker">
+    <Data>Bu özelliğe yönelik çıkartmaların sağlanması için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.</Data>
+  </string>
+  <string name="network_access_user_notice_message_voice_caption">
+    <Data>Konuşmayı metne dönüştürme işlevini sağlamak için kameranın internete bağlanması gerekir. &lt;br/&gt;&lt;br/&gt;Aşağıdaki \"Kabul Ediyorum\" seçeneğine dokunarak &lt;a href =%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href =%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; kabul ediyor ve Kameranın internete bağlanmasına izin veriyorsunuz.\"</Data>
+  </string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="network_connection_failed">"Bağlanılamadı"</string>
   <string name="network_connection_ongoing">Bağlanılıyor…</string>

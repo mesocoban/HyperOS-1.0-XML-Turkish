@@ -1,214 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Erkek</item>
-        <item>Kadın</item>
-    </string-array>
-    <string-array name="countries">
-        <item>Afganistan</item>
-        <item>Arnavutluk</item>
-        <item>Cezayir</item>
-        <item>Andora</item>
-        <item>Angola</item>
-        <item>Antigua ve Barbuda</item>
-        <item>Arjantin</item>
-        <item>Ermenistan</item>
-        <item>Avustralya</item>
-        <item>Avusturya</item>
-        <item>Azerbaycan</item>
-        <item>Bahamalar</item>
-        <item>Bahreyn</item>
-        <item>Bangladeş</item>
-        <item>Barbados</item>
-        <item>Belarus</item>
-        <item>Belçika</item>
-        <item>Belize</item>
-        <item>Benin</item>
-        <item>Butan</item>
-        <item>Bolivya</item>
-        <item>Bosna Hersek</item>
-        <item>Botsvana</item>
-        <item>Brezilya</item>
-        <item>Brunei</item>
-        <item>Bulgaristan</item>
-        <item>Burkina Faso</item>
-        <item>Myanmar</item>
-        <item>Burundi</item>
-        <item>Kamboçya</item>
-        <item>Kamerun</item>
-        <item>Kanada</item>
-        <item>Yeşil Burun Adaları</item>
-        <item>Orta Afrika Cumhuriyeti</item>
-        <item>Çad</item>
-        <item>Şili</item>
-        <item>Çin</item>
-        <item>Kolombiya</item>
-        <item>Komor Adaları</item>
-        <item>Demokratik Kongo Cumhuriyeti</item>
-        <item>Kongo Cumhuriyeti</item>
-        <item>Kosta Rika</item>
-        <item>Fildişi Sahili</item>
-        <item>Hırvatistan</item>
-        <item>Küba</item>
-        <item>Kıbrıs</item>
-        <item>Çekya</item>
-        <item>Danimarka</item>
-        <item>Cibuti</item>
-        <item>Dominika</item>
-        <item>Dominik Cumhuriyeti</item>
-        <item>Ekvador</item>
-        <item>Mısır</item>
-        <item>El Salvador</item>
-        <item>Ekvator Ginesi</item>
-        <item>Eritre</item>
-        <item>Estonya</item>
-        <item>Etiyopya</item>
-        <item>Fiji</item>
-        <item>Finlandiya</item>
-        <item>Fransa</item>
-        <item>Gabon</item>
-        <item>Gambiya</item>
-        <item>Gürcistan</item>
-        <item>Gana</item>
-        <item>Yunanistan</item>
-        <item>Grenada</item>
-        <item>Guatemala</item>
-        <item>Gine</item>
-        <item>Gine-Bissau</item>
-        <item>Guyana</item>
-        <item>Haiti</item>
-        <item>Vatikan</item>
-        <item>Honduras</item>
-        <item>Hong Kong</item>
-        <item>Macaristan</item>
-        <item>İzlanda</item>
-        <item>Hindistan</item>
-        <item>Endonezya</item>
-        <item>İran</item>
-        <item>Irak</item>
-        <item>İrlanda</item>
-        <item>İsrail</item>
-        <item>İtalya</item>
-        <item>Jamaika</item>
-        <item>Japonya</item>
-        <item>Ürdün</item>
-        <item>Kazakistan</item>
-        <item>Kenya</item>
-        <item>Kiribati</item>
-        <item>Kore, Kuzey</item>
-        <item>Güney Kore</item>
-        <item>Kosova</item>
-        <item>Kuveyt</item>
-        <item>Kırgizistan</item>
-        <item>Laos</item>
-        <item>Letonya</item>
-        <item>Lübnan</item>
-        <item>Lesoto</item>
-        <item>Liberya</item>
-        <item>Libya</item>
-        <item>Lihtenştayn</item>
-        <item>Litvanya</item>
-        <item>Lüksemburg</item>
-        <item>Makao</item>
-        <item>Makedonya</item>
-        <item>Madagaskar</item>
-        <item>Malavi</item>
-        <item>Malezya</item>
-        <item>Maldivler</item>
-        <item>Mali</item>
-        <item>Malta</item>
-        <item>Marşal Adaları</item>
-        <item>Moritanya</item>
-        <item>Mauritius</item>
-        <item>Meksika</item>
-        <item>Mikronezya</item>
-        <item>Moldova</item>
-        <item>Monako</item>
-        <item>Moğolistan</item>
-        <item>Karadağ</item>
-        <item>Fas</item>
-        <item>Mozambik</item>
-        <item>Namibya</item>
-        <item>Nauru</item>
-        <item>Nepal</item>
-        <item>Hollanda</item>
-        <item>Hollanda Antilleri</item>
-        <item>Yeni Zelanda</item>
-        <item>Nikaragua</item>
-        <item>Nijer</item>
-        <item>Nijerya</item>
-        <item>Kuzey Kore</item>
-        <item>Norveç</item>
-        <item>Umman</item>
-        <item>Pakistan</item>
-        <item>Palau</item>
-        <item>Filistin Bölgeleri</item>
-        <item>Panama</item>
-        <item>Papua Yeni Gine</item>
-        <item>Paraguay</item>
-        <item>Peru</item>
-        <item>Filipinler</item>
-        <item>Polonya</item>
-        <item>Portekiz</item>
-        <item>Katar</item>
-        <item>Romanya</item>
-        <item>Rusya</item>
-        <item>Ruanda</item>
-        <item>Saint Kitts ve Nevis</item>
-        <item>Saint Lucia</item>
-        <item>Saint Vincent ve Grenadines Adaları</item>
-        <item>Samoa</item>
-        <item>San Marino</item>
-        <item>Sao Tome ve Principe</item>
-        <item>Suudi Arabistan</item>
-        <item>Senegal</item>
-        <item>Sırbistan</item>
-        <item>Seyşeller</item>
-        <item>Sierra Leone</item>
-        <item>Singapur</item>
-        <item>Slovakya</item>
-        <item>Slovenya</item>
-        <item>Solomon Adaları</item>
-        <item>Somali</item>
-        <item>Güney Afrika</item>
-        <item>Güney Kore</item>
-        <item>Güney Sudan</item>
-        <item>İspanya</item>
-        <item>Sri Lanka</item>
-        <item>Sudan</item>
-        <item>Surinam</item>
-        <item>İsviçre</item>
-        <item>İsveç</item>
-        <item>İsviçre</item>
-        <item>Suriye</item>
-        <item>Tayvan</item>
-        <item>Tacikistan</item>
-        <item>Tanzanya</item>
-        <item>Tayland</item>
-        <item>Doğu Timor</item>
-        <item>Togo</item>
-        <item>Tonga</item>
-        <item>Trinidad ve Tobago</item>
-        <item>Tunus</item>
-        <item>Türkiye</item>
-        <item>Türkmenistan</item>
-        <item>Tuvalu</item>
-        <item>Uganda</item>
-        <item>Ukrayna</item>
-        <item>Birleşik Arap Emirlikleri</item>
-        <item>İngiltere</item>
-        <item>Uruguay</item>
-        <item>Özbekistan</item>
-        <item>Vanuatu</item>
-        <item>Venezuela</item>
-        <item>Vietnam</item>
-        <item>Yemen</item>
-        <item>Zambiya</item>
-        <item>Zimbabve</item>
-    </string-array>
-    <string-array name="feedback_tag_list">
-        <item>Sorun</item>
-        <item>Öneri</item>
-        <item>Diğer</item>
-    </string-array>
+  <string-array name="account_user_gender_name">
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="countries">
+    <item>Afganistan</item>
+    <item>Arnavutluk</item>
+    <item>Cezayir</item>
+    <item>Andora</item>
+    <item>Angola</item>
+    <item>Antigua ve Barbuda</item>
+    <item>Arjantin</item>
+    <item>Ermenistan</item>
+    <item>Avustralya</item>
+    <item>Avusturya</item>
+    <item>Azerbaycan</item>
+    <item>Bahamalar</item>
+    <item>Bahreyn</item>
+    <item>Bangladeş</item>
+    <item>Barbados</item>
+    <item>Belarus</item>
+    <item>Belçika</item>
+    <item>Belize</item>
+    <item>Benin</item>
+    <item>Butan</item>
+    <item>Bolivya</item>
+    <item>Bosna Hersek</item>
+    <item>Botsvana</item>
+    <item>Brezilya</item>
+    <item>Brunei</item>
+    <item>Bulgaristan</item>
+    <item>Burkina Faso</item>
+    <item>Myanmar</item>
+    <item>Burundi</item>
+    <item>Kamboçya</item>
+    <item>Kamerun</item>
+    <item>Kanada</item>
+    <item>Yeşil Burun Adaları</item>
+    <item>Orta Afrika Cumhuriyeti</item>
+    <item>Çad</item>
+    <item>Şili</item>
+    <item>Çin</item>
+    <item>Kolombiya</item>
+    <item>Komor Adaları</item>
+    <item>Demokratik Kongo Cumhuriyeti</item>
+    <item>Kongo Cumhuriyeti</item>
+    <item>Kosta Rika</item>
+    <item>Fildişi Sahili</item>
+    <item>Hırvatistan</item>
+    <item>Küba</item>
+    <item>Kıbrıs</item>
+    <item>Çekya</item>
+    <item>Danimarka</item>
+    <item>Cibuti</item>
+    <item>Dominika</item>
+    <item>Dominik Cumhuriyeti</item>
+    <item>Ekvador</item>
+    <item>Mısır</item>
+    <item>El Salvador</item>
+    <item>Ekvator Ginesi</item>
+    <item>Eritre</item>
+    <item>Estonya</item>
+    <item>Etiyopya</item>
+    <item>Fiji</item>
+    <item>Finlandiya</item>
+    <item>Fransa</item>
+    <item>Gabon</item>
+    <item>Gambiya</item>
+    <item>Gürcistan</item>
+    <item>Gana</item>
+    <item>Yunanistan</item>
+    <item>Grenada</item>
+    <item>Guatemala</item>
+    <item>Gine</item>
+    <item>Gine-Bissau</item>
+    <item>Guyana</item>
+    <item>Haiti</item>
+    <item>Vatikan</item>
+    <item>Honduras</item>
+    <item>Hong Kong</item>
+    <item>Macaristan</item>
+    <item>İzlanda</item>
+    <item>Hindistan</item>
+    <item>Endonezya</item>
+    <item>İran</item>
+    <item>Irak</item>
+    <item>İrlanda</item>
+    <item>İsrail</item>
+    <item>İtalya</item>
+    <item>Jamaika</item>
+    <item>Japonya</item>
+    <item>Ürdün</item>
+    <item>Kazakistan</item>
+    <item>Kenya</item>
+    <item>Kiribati</item>
+    <item>Kore, Kuzey</item>
+    <item>Güney Kore</item>
+    <item>Kosova</item>
+    <item>Kuveyt</item>
+    <item>Kırgizistan</item>
+    <item>Laos</item>
+    <item>Letonya</item>
+    <item>Lübnan</item>
+    <item>Lesoto</item>
+    <item>Liberya</item>
+    <item>Libya</item>
+    <item>Lihtenştayn</item>
+    <item>Litvanya</item>
+    <item>Lüksemburg</item>
+    <item>Makao</item>
+    <item>Makedonya</item>
+    <item>Madagaskar</item>
+    <item>Malavi</item>
+    <item>Malezya</item>
+    <item>Maldivler</item>
+    <item>Mali</item>
+    <item>Malta</item>
+    <item>Marşal Adaları</item>
+    <item>Moritanya</item>
+    <item>Mauritius</item>
+    <item>Meksika</item>
+    <item>Mikronezya</item>
+    <item>Moldova</item>
+    <item>Monako</item>
+    <item>Moğolistan</item>
+    <item>Karadağ</item>
+    <item>Fas</item>
+    <item>Mozambik</item>
+    <item>Namibya</item>
+    <item>Nauru</item>
+    <item>Nepal</item>
+    <item>Hollanda</item>
+    <item>Hollanda Antilleri</item>
+    <item>Yeni Zelanda</item>
+    <item>Nikaragua</item>
+    <item>Nijer</item>
+    <item>Nijerya</item>
+    <item>Kuzey Kore</item>
+    <item>Norveç</item>
+    <item>Umman</item>
+    <item>Pakistan</item>
+    <item>Palau</item>
+    <item>Filistin Bölgeleri</item>
+    <item>Panama</item>
+    <item>Papua Yeni Gine</item>
+    <item>Paraguay</item>
+    <item>Peru</item>
+    <item>Filipinler</item>
+    <item>Polonya</item>
+    <item>Portekiz</item>
+    <item>Katar</item>
+    <item>Romanya</item>
+    <item>Rusya</item>
+    <item>Ruanda</item>
+    <item>Saint Kitts ve Nevis</item>
+    <item>Saint Lucia</item>
+    <item>Saint Vincent ve Grenadines Adaları</item>
+    <item>Samoa</item>
+    <item>San Marino</item>
+    <item>Sao Tome ve Principe</item>
+    <item>Suudi Arabistan</item>
+    <item>Senegal</item>
+    <item>Sırbistan</item>
+    <item>Seyşeller</item>
+    <item>Sierra Leone</item>
+    <item>Singapur</item>
+    <item>Slovakya</item>
+    <item>Slovenya</item>
+    <item>Solomon Adaları</item>
+    <item>Somali</item>
+    <item>Güney Afrika</item>
+    <item>Güney Kore</item>
+    <item>Güney Sudan</item>
+    <item>İspanya</item>
+    <item>Sri Lanka</item>
+    <item>Sudan</item>
+    <item>Surinam</item>
+    <item>İsviçre</item>
+    <item>İsveç</item>
+    <item>İsviçre</item>
+    <item>Suriye</item>
+    <item>Tayvan</item>
+    <item>Tacikistan</item>
+    <item>Tanzanya</item>
+    <item>Tayland</item>
+    <item>Doğu Timor</item>
+    <item>Togo</item>
+    <item>Tonga</item>
+    <item>Trinidad ve Tobago</item>
+    <item>Tunus</item>
+    <item>Türkiye</item>
+    <item>Türkmenistan</item>
+    <item>Tuvalu</item>
+    <item>Uganda</item>
+    <item>Ukrayna</item>
+    <item>Birleşik Arap Emirlikleri</item>
+    <item>İngiltere</item>
+    <item>Uruguay</item>
+    <item>Özbekistan</item>
+    <item>Vanuatu</item>
+    <item>Venezuela</item>
+    <item>Vietnam</item>
+    <item>Yemen</item>
+    <item>Zambiya</item>
+    <item>Zimbabve</item>
+  </string-array>
+  <string-array name="feedback_tag_list">
+    <item>Sorun</item>
+    <item>Öneri</item>
+    <item>Diğer</item>
+  </string-array>
 </resources>

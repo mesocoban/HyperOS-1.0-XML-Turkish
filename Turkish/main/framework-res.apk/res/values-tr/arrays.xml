@@ -1,76 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_globalActionsList">
-        <item>acil durum</item>
-        <item>kilitle</item>
-        <item>güç</item>
-        <item>yeniden başlat</item>
-        <item>çıkış yap</item>
-        <item>ekran görüntüsü</item>
-        <item>hata raporu</item>
-    </string-array>
-    <string-array name="config_statusBarIcons">
-        <item>mikrofon</item>
-        <item>mikrofonlu kulaklık</item>
-        <item>sessiz</item>
-        <item>yansıtma</item>
-        <item>konum</item>
-        <item>hoparlör</item>
-        <item>sessiz</item>
-        <item>ses düzeyi</item>
-        <item>pil</item>
-        <item>güvenli</item>
-        <item>saat</item>
-    </string-array>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Yeniden deneyin</item>
-        <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
-        <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
-        <item>Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
-        <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
-        <item>Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
-        <item>"Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın"</item>
-        <item>Parmağınızı biraz hareket ettirip tekrar deneyin</item>
-        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
-        <item>Parmağınızı tarayıcının üzerinde biraz daha uzun süre tutun</item>
-        <item>Parmağınızı hafifçe hareket ettirin</item>
-        <item>Parmak izi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Ev</item>
-        <item>İş</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>mobil veri</item>
-        <item>Kablosuz</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>İş</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Ev</item>
-        <item>Mobil</item>
-        <item>İş</item>
-        <item>İş Faksı</item>
-        <item>Ev Faksı</item>
-        <item>Çağrı Cihazı</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Ev</item>
-        <item>İş</item>
-        <item>Diğer</item>
-        <item>Özel</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorAlertMessages">
-        <item>WLAN üzerinden çağrı yapmak ve mesaj göndermek için önce operatörünüzden bu servisi ayarlamasını isteyin. Ardından, WLAN çağrısını tekrar Ayarlar\'dan açın. (Hata kodu: %1$s)</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Operatörünüzle kayıt olun (Hata kodu: %1$s)</item>
-    </string-array>
+  <string-array name="config_globalActionsList">
+    <item>acil durum</item>
+    <item>kilitle</item>
+    <item>güç</item>
+    <item>yeniden başlat</item>
+    <item>çıkış yap</item>
+    <item>ekran görüntüsü</item>
+    <item>hata raporu</item>
+  </string-array>
+  <string-array name="config_statusBarIcons">
+    <item>mikrofon</item>
+    <item>mikrofonlu kulaklık</item>
+    <item>sessiz</item>
+    <item>yansıtma</item>
+    <item>konum</item>
+    <item>hoparlör</item>
+    <item>sessiz</item>
+    <item>ses düzeyi</item>
+    <item>pil</item>
+    <item>güvenli</item>
+    <item>saat</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Yeniden deneyin</item>
+    <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
+    <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
+    <item>Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+    <item>Parmak izi tarayıcısını tamamen kapatın ve baskı uygulayın</item>
+    <item>Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+    <item>"Parmak izi tarayıcısını tamamen kapatın ve basınç uygulayın"</item>
+    <item>Parmağınızı biraz hareket ettirip tekrar deneyin</item>
+    <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+    <item>Parmağınızı tarayıcının üzerinde biraz daha uzun süre tutun</item>
+    <item>Parmağınızı hafifçe hareket ettirin</item>
+    <item>Parmak izi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Ev</item>
+    <item>İş</item>
+    <item>Diğer</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>mobil veri</item>
+    <item>Kablosuz</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>İş</item>
+    <item>Diğer</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Ev</item>
+    <item>Mobil</item>
+    <item>İş</item>
+    <item>İş Faksı</item>
+    <item>Ev Faksı</item>
+    <item>Çağrı Cihazı</item>
+    <item>Diğer</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Ev</item>
+    <item>İş</item>
+    <item>Diğer</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>WLAN üzerinden çağrı yapmak ve mesaj göndermek için önce operatörünüzden bu servisi ayarlamasını isteyin. Ardından, WLAN çağrısını tekrar Ayarlar\'dan açın. (Hata kodu: %1$s)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Operatörünüzle kayıt olun (Hata kodu: %1$s)</item>
+  </string-array>
 </resources>

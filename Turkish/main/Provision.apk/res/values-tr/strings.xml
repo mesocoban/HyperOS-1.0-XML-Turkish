@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -68,10 +68,14 @@
   <string name="calculator_introduction">Bu uygulamayı hesap yapmak, birim ve para birimlerini çevirmek ve aylık konut kredisi geri ödemelerinizi tahmin etmek için kullanabilirsiniz.</string>
   <string name="camera_application_introduction">Bu uygulamayı fotoğraf ve video çekmek için kullanabilirsiniz.</string>
   <string name="camera_introduction">Kamera\'yı fotoğraf ve video çekmek için kullanabilirsiniz.</string>
-  <string name="carousel_cookies_content">    <Data>\"Duvar kağıdı Döngüsü\'ndeki görüntülere ve hikayelere dokunduğunuzda, tam sürümleri tarayıcınızda açılacak. Güvenilir üçüncü taraf içerik sağlayıcımız, ilginizi çekecek ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz, &lt;a href=\"%1$s\"&gt;Çerez Politikası&lt;/a&gt;\'nda tanımlandığı gibi tarayıcınıza çerez yerleştirecektir. Çerezleri reddederseniz, Duvar kağıdı Döngüsü yine de çalışacaktır ama içeriği ve önerileri artık sizinle ilgili olamayabilir. Tercihlerinizi istediğiniz zaman Ayarlar\'da değiştirebilirsiniz.\"</Data>  </string>
+  <string name="carousel_cookies_content">
+    <Data>\"Duvar kağıdı Döngüsü\'ndeki görüntülere ve hikayelere dokunduğunuzda, tam sürümleri tarayıcınızda açılacak. Güvenilir üçüncü taraf içerik sağlayıcımız, ilginizi çekecek ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz, &lt;a href=\"%1$s\"&gt;Çerez Politikası&lt;/a&gt;\'nda tanımlandığı gibi tarayıcınıza çerez yerleştirecektir. Çerezleri reddederseniz, Duvar kağıdı Döngüsü yine de çalışacaktır ama içeriği ve önerileri artık sizinle ilgili olamayabilir. Tercihlerinizi istediğiniz zaman Ayarlar\'da değiştirebilirsiniz.\"</Data>
+  </string>
   <string name="carousel_cookies_subtitle">Çerezler, Kilit ekranı deneyiminizi kişiselleştirmemizi sağlar.</string>
   <string name="carousel_cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
-  <string name="carousel_privacy">    <Data>\"Duvar kağıdı Döngüsü\'nü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Kullanıcı Sözleşmesini&lt;/a&gt; okuyun ve kabul edin.\"</Data>  </string>
+  <string name="carousel_privacy">
+    <Data>\"Duvar kağıdı Döngüsü\'nü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın &lt;a href=\"%1$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"%2$s\"&gt;Kullanıcı Sözleşmesini&lt;/a&gt; okuyun ve kabul edin.\"</Data>
+  </string>
   <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
   <string name="carousel_setting_sub">Cihazınızın kilidini açtığınız her seferinde Duvar kağıdı Döngüsü size yeni hikayeler gösterecek</string>
   <string name="carrier_introduction_china">Size daha iyi hizmet sunabilmek için cihazınızda çalışan işlemler ( SystemHelper, RegService ve Operatör Hizmetleri), cihazınızla ve SIM kartınızla ilgili bilgileri (Iincluding IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresi, sistem sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri dahil) periyodik olarak gönderebilir, ayrıca yaklaşık konum bilgilerini de (bölge, koordinatlar, alan tanımlayıcı ve baz istasyonu kimliği dahil) operatörünüze WLAN, mobil ağ veya ücretsiz SMS aracılığıyla gönderebilir. Operatör, ilgili bilgileri yalnızca hizmet kalitesini artırmak veya özelleştirilmiş hizmet veya teknolojileri sunmak için kullanmayı garanti eder ve sizin kişisel olarak açığa çıkmanıza olanak sağlayabilecek bilgileri hiçbir şekilde üçüncü taraflarla paylaşamaz. Özel operatör beyanı esastır. Bu hizmetin kullanım ücretleri ile ilgili operatörünüze danışın.</string>
@@ -578,7 +582,9 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="privacy_title">Şartlar &amp; Gizlilik Politikası</string>
   <string name="protect_persoanl_info_statement">Yürürlükteki yasalar, yönetmelikler ve gizlilik politikaları gereğince kişisel bilgilerinizi koruyacağız.</string>
   <string name="provision_back">Geri</string>
-  <string name="provision_inputmethod_policy_description">    <Data>Seçili klavyenizin &lt;a href=%1$s&gt;Gizlilik Politikasını&lt;/a &gt; görüntüleyin.</Data>  </string>
+  <string name="provision_inputmethod_policy_description">
+    <Data>Seçili klavyenizin &lt;a href=%1$s&gt;Gizlilik Politikasını&lt;/a &gt; görüntüleyin.</Data>
+  </string>
   <string name="provision_inputmethod_policy_description1">Gizlilik Politikası</string>
   <string name="provision_next">İleri</string>
   <string name="provision_skip_underline">Atla</string>
@@ -610,9 +616,13 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="send">Gönder</string>
   <string name="service_agreement">"Şartlar ve koşullar'ı okudum ve kabul ediyorum."</string>
   <string name="service_company_adjust_content">Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi</string>
-  <string name="service_fast_pairing_policy">    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>  </string>
+  <string name="service_fast_pairing_policy">
+    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>
+  </string>
   <string name="service_interconnection_communication">Xiaomi İnternet İletişim Hizmetleri</string>
-  <string name="service_location_share_policy">    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>  </string>
+  <string name="service_location_share_policy">
+    <Data>Devam etmeden önce &lt;a href=\"%1$s\"&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul edin.</Data>
+  </string>
   <string name="service_mi_account">Xiaomi Hesabı</string>
   <string name="service_name_MIUIDaemon">Sistem Daemon</string>
   <string name="service_name_address_dialing">Kişiler ve Telefon</string>
@@ -643,11 +653,16 @@ Bu özelliği Ayarlar &gt; Şifreler &amp; güvenlik &gt; Gizlilik &gt; Kullanı
   <string name="service_name_security">Güvenlik</string>
   <string name="service_name_service_framework">Mi Hizmet Çerçevesi</string>
   <string name="service_name_systemdesktop">Ana ekran hizmet eklentisi</string>
-  <string name="service_policy">    <Data>&lt;a href=%1$s&gt;Gizlilik Politikasımızı&lt;/a &gt; okuyup kabul ediniz.</Data>  </string>
+  <string name="service_policy">
+    <Data>&lt;a href=%1$s&gt;Gizlilik Politikasımızı&lt;/a &gt; okuyup kabul ediniz.</Data>
+  </string>
   <string name="service_policy_adjust_content">Xunlei Gizlilik Politikası</string>
-  <string name="service_policy_download">    <Data>Devam etmeden önce &lt;a href=%1$s&gt;Xunlei Gizlilik Politikası&lt;/a &gt; ve &lt;a href=%1$s&gt;Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a &gt;\'ni okuyun ve kabul edin.</Data>  </string>
+  <string name="service_policy_download">
+    <Data>Devam etmeden önce &lt;a href=%1$s&gt;Xunlei Gizlilik Politikası&lt;/a &gt; ve &lt;a href=%1$s&gt;Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a &gt;\'ni okuyun ve kabul edin.</Data>
+  </string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
-  <string name="service_security_over_r">    <Data>&lt;a href=%1$s&gt;Gizlilik Politikamızı&lt;/a &gt;</Data> okuyup kabul edin  </string>
+  <string name="service_security_over_r">
+    <Data>&lt;a href=%1$s&gt;Gizlilik Politikamızı&lt;/a &gt;</Data> okuyup kabul edin  </string>
   <string name="service_sim_activation">SIM kart aktivasyonu</string>
   <string name="servicestate_title">Temel hizmetler hakkında beyan</string>
   <string name="setting_locale">Bölge ayarlanıyor…</string>

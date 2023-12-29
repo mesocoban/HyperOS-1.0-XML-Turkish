@@ -1,91 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="calendar_remind_string_array">
-        <item>Bu gece</item>
-        <item>Yarın</item>
-        <item>Hafta sonu</item>
-        <item>Gelecek hafta</item>
-        <item>Gelecek ay</item>
-        <item>Tarih seç</item>
-    </string-array>
-    <string-array name="error_message_respond">
-        <item>GİRİŞ Oturum açma veya şifre hatası</item>
-        <item>GİRİŞ Giriş hatası şifre hatası</item>
-        <item>Geçersiz oturum açma kullanıcısı veya parolası</item>
-        <item>GİRİŞ hatası, geçersiz kullanıcı adı/şifre</item>
-        <item>GİRİŞ hatano:1424, hesap mevcut değil(md return:2100001)</item>
-        <item>Lütfen giriş yapmak için yetkili kodu kullanın. Daha fazla bilgi için https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>Yetkili kod yanlış. Daha fazla bilgiyi https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28 adresinde bulabilirsiniz.</item>
-        <item>LOGIN Oturum açma hatası kullanıcı askıya alındı</item>
-        <item>GİRİŞ başarısız oldu, Nan Kui daha örgülü ve dokunaklı hale geliyor\ufffd</item>
-        <item>GİRİŞ errno:1423, kullanıcı şifresi hatası(sp return:2200019)</item>
-        <item>DOĞRULAMA BAŞARISIZ GİRİŞ Geçersiz kimlik bilgileri</item>
-        <item>Giriş hatası. Şifre yanlış veya hizmet açık değil</item>
-        <item>GİRİŞ imap4 nosupport</item>
-        <item>GİRİŞ errno:1328, özel imap kapalı</item>
-        <item>LOGIN Oturum açma hatası kullanıcı askıya alındı</item>
-        <item>GİRİŞ kullanıcısı kara listede</item>
-        <item>GİRİŞ kullanıcısı kara listede</item>
-        <item>GİRİŞ kullanıcısı kara listede</item>
-        <item>GİRİŞ errno:1412 status=51 Şifre uzun süredir değiştirilmiyor. Lütfen şifreyi değiştirin. http://mail.10086.cnGİRİŞ imap4 nosupport</item>
-        <item>GİRİŞ imap4 nosupport</item>
-        <item>Giriş başarısız oldu. Hesap engellendi. Kimliğinizi doğrulamak için bir web tarayıcısı aracılığıyla hesabınıza giriş yapın.</item>
-        <item>HATA Geçersiz oturum açma kullanıcısı veya parolası</item>
-        <item>Giriş hatası. Giriş yapmak için lütfen uygulama şifresini kullanın. Daha fazla bilgiyi http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494 adresinde bulabilirsiniz</item>
-        <item>HATA özel pop3 kapalı</item>
-        <item>GİRİŞ hatası kullanıcı adı veya şifre hatası</item>
-        <item>Kullanıcı adı ya da şifre yanlış girildi</item>
-        <item>kara listede, lütfen ağınızı değiştirin veya istemci ip beyaz listesini ayarlamak için https://mail.sohu.com adresine giriş yapın</item>
-        <item>java.net.UnknownHostException: Ana bilgisayar çözümlenemiyor</item>
-        <item>istemci devre dışı, lütfen https://mail.sohu.com sitesindeki durumu değiştirin</item>
-        <item>başlangıç şifresi yok, lütfen istemci şifresi oluşturmak için https://mail.sohu.com adresine giriş yapın</item>
-    </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
-        <item>En son görüntüleme</item>
-        <item>Biçim</item>
-        <item>İsim</item>
-        <item>Gönderen</item>
-        <item>Alınma tarihi</item>
-    </string-array>
-    <string-array name="prefEntries_contact_add">
-        <item>Tümü</item>
-        <item>Sadece gönderenler</item>
-    </string-array>
-    <string-array name="signature_normal_string_array">
-        <item>E-Posta:</item>
-        <item>Site:</item>
-        <item>Telefon:</item>
-        <item>E-Posta:</item>
-        <item>Faks:</item>
-        <item>Posta:</item>
-    </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Adres:</item>
-        <item>Adı:</item>
-        <item>E-Posta:</item>
-        <item>Mobil:</item>
-        <item>Faks:</item>
-        <item>Posta Kodu:</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Feragat:</item>
-        <item>E-Posta feragatı</item>
-        <item>WPSMail yoluyla gönder</item>
-        <item>Şundan geldi</item>
-        <item>Şunla gönder</item>
-        <item>Teşekkürler,</item>
-        <item>Saygılarımla</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Teşekkürler,</item>
-        <item>Saygılarımla</item>
-        <item>Gönderen</item>
-        <item>Orijinal e-posta</item>
-        <item>Gönderen</item>
-        <item>Gönderilen</item>
-        <item>Gönderen</item>
-        <item>Bu e-posta</item>
-        <item>Feragat</item>
-        <item>E-Posta feragatı</item>
-    </string-array>
+  <string-array name="calendar_remind_string_array">
+    <item>Bu gece</item>
+    <item>Yarın</item>
+    <item>Hafta sonu</item>
+    <item>Gelecek hafta</item>
+    <item>Gelecek ay</item>
+    <item>Tarih seç</item>
+  </string-array>
+  <string-array name="error_message_respond">
+    <item>GİRİŞ Oturum açma veya şifre hatası</item>
+    <item>GİRİŞ Giriş hatası şifre hatası</item>
+    <item>Geçersiz oturum açma kullanıcısı veya parolası</item>
+    <item>GİRİŞ hatası, geçersiz kullanıcı adı/şifre</item>
+    <item>GİRİŞ hatano:1424, hesap mevcut değil(md return:2100001)</item>
+    <item>Lütfen giriş yapmak için yetkili kodu kullanın. Daha fazla bilgi için https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+    <item>Yetkili kod yanlış. Daha fazla bilgiyi https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28 adresinde bulabilirsiniz.</item>
+    <item>LOGIN Oturum açma hatası kullanıcı askıya alındı</item>
+    <item>GİRİŞ başarısız oldu, Nan Kui daha örgülü ve dokunaklı hale geliyor\ufffd</item>
+    <item>GİRİŞ errno:1423, kullanıcı şifresi hatası(sp return:2200019)</item>
+    <item>DOĞRULAMA BAŞARISIZ GİRİŞ Geçersiz kimlik bilgileri</item>
+    <item>Giriş hatası. Şifre yanlış veya hizmet açık değil</item>
+    <item>GİRİŞ imap4 nosupport</item>
+    <item>GİRİŞ errno:1328, özel imap kapalı</item>
+    <item>LOGIN Oturum açma hatası kullanıcı askıya alındı</item>
+    <item>GİRİŞ kullanıcısı kara listede</item>
+    <item>GİRİŞ kullanıcısı kara listede</item>
+    <item>GİRİŞ kullanıcısı kara listede</item>
+    <item>GİRİŞ errno:1412 status=51 Şifre uzun süredir değiştirilmiyor. Lütfen şifreyi değiştirin. http://mail.10086.cnGİRİŞ imap4 nosupport</item>
+    <item>GİRİŞ imap4 nosupport</item>
+    <item>Giriş başarısız oldu. Hesap engellendi. Kimliğinizi doğrulamak için bir web tarayıcısı aracılığıyla hesabınıza giriş yapın.</item>
+    <item>HATA Geçersiz oturum açma kullanıcısı veya parolası</item>
+    <item>Giriş hatası. Giriş yapmak için lütfen uygulama şifresini kullanın. Daha fazla bilgiyi http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494 adresinde bulabilirsiniz</item>
+    <item>HATA özel pop3 kapalı</item>
+    <item>GİRİŞ hatası kullanıcı adı veya şifre hatası</item>
+    <item>Kullanıcı adı ya da şifre yanlış girildi</item>
+    <item>kara listede, lütfen ağınızı değiştirin veya istemci ip beyaz listesini ayarlamak için https://mail.sohu.com adresine giriş yapın</item>
+    <item>java.net.UnknownHostException: Ana bilgisayar çözümlenemiyor</item>
+    <item>istemci devre dışı, lütfen https://mail.sohu.com sitesindeki durumu değiştirin</item>
+    <item>başlangıç şifresi yok, lütfen istemci şifresi oluşturmak için https://mail.sohu.com adresine giriş yapın</item>
+  </string-array>
+  <string-array name="menu_att_mgr_sort_string_array">
+    <item>En son görüntüleme</item>
+    <item>Biçim</item>
+    <item>İsim</item>
+    <item>Gönderen</item>
+    <item>Alınma tarihi</item>
+  </string-array>
+  <string-array name="prefEntries_contact_add">
+    <item>Tümü</item>
+    <item>Sadece gönderenler</item>
+  </string-array>
+  <string-array name="signature_normal_string_array">
+    <item>E-Posta:</item>
+    <item>Site:</item>
+    <item>Telefon:</item>
+    <item>E-Posta:</item>
+    <item>Faks:</item>
+    <item>Posta:</item>
+  </string-array>
+  <string-array name="signature_normal_string_array_next">
+    <item>Adres:</item>
+    <item>Adı:</item>
+    <item>E-Posta:</item>
+    <item>Mobil:</item>
+    <item>Faks:</item>
+    <item>Posta Kodu:</item>
+  </string-array>
+  <string-array name="signature_special_string_array">
+    <item>Feragat:</item>
+    <item>E-Posta feragatı</item>
+    <item>WPSMail yoluyla gönder</item>
+    <item>Şundan geldi</item>
+    <item>Şunla gönder</item>
+    <item>Teşekkürler,</item>
+    <item>Saygılarımla</item>
+  </string-array>
+  <string-array name="signature_special_string_array_next">
+    <item>Teşekkürler,</item>
+    <item>Saygılarımla</item>
+    <item>Gönderen</item>
+    <item>Orijinal e-posta</item>
+    <item>Gönderen</item>
+    <item>Gönderilen</item>
+    <item>Gönderen</item>
+    <item>Bu e-posta</item>
+    <item>Feragat</item>
+    <item>E-Posta feragatı</item>
+  </string-array>
 </resources>

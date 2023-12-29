@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="April">Nisan</string>
   <string name="August">Ağustos</string>
@@ -1242,15 +1242,31 @@
   <string name="passport_to_verify_code_login">SMS ile oturum aç</string>
   <string name="passport_unknown_error">Bilinmeyen hata</string>
   <string name="passport_unknown_host_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-  <string name="passport_user_agreement_hint_3rd_app">    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; ve Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_3rd_app_mobile">    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;Çin Mobil doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_3rd_app_with_telecom">    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;eSurfing hesap doğrulama şartları ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_3rd_app_with_unicom">    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;Çin Unicom hesap doğrulama şartları ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_default">    <Data>Xiaomi Hesabı &lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; okudum ve kabul ettim.</Data>  </string>
+  <string name="passport_user_agreement_hint_3rd_app">
+    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; ve Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_mobile">
+    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;Çin Mobil doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_with_telecom">
+    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;eSurfing hesap doğrulama şartları ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_with_unicom">
+    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt;, Xiaomi Hesabının &lt;a href=%3$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%5$s&gt;Çin Unicom hesap doğrulama şartları ve koşullarını&lt;/a&gt; okudum ve kabul ediyorum.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_default">
+    <Data>Xiaomi Hesabı &lt;a href=%1$s&gt;Kullanıcı Sözleşmesini&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; okudum ve kabul ettim.</Data>
+  </string>
   <string name="passport_user_agreement_hint_first_login">"Telefon numaranızı ilk kez kullanıyorsanız otomatik  bir hesap oluşturacağız."</string>
-  <string name="passport_user_agreement_hint_with_mobile">    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;Çin Mobil doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_with_telecom">    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>  </string>
-  <string name="passport_user_agreement_hint_with_unicom">    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>  </string>
+  <string name="passport_user_agreement_hint_with_mobile">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;Çin Mobil doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_with_telecom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_with_unicom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasının&lt;/a&gt; yanı sıra &lt;a href=%3$s&gt;Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını&lt;/a&gt; okudum ve kabul ettim.\"</Data>
+  </string>
   <string name="passport_user_avatar_update_title">Profil resmini değiştir</string>
   <string name="passport_user_avatar_uploading">Yalnızca bir sn.…</string>
   <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi Hesabı Kimliği</string>
@@ -1322,9 +1338,11 @@
   <string name="privacy_authorize_revoking">Yetki geri alınıyor…</string>
   <string name="privacy_desc">Gizlilik Politikası (zorunlu)</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="privacy_request_desc">    <Data>Mi Müzik\'in çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\"&gt;Gizlilik Politikamızda&lt;/a&gt; topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Mi Müzik\'in Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz.
+  <string name="privacy_request_desc">
+    <Data>Mi Müzik\'in çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\"&gt;Gizlilik Politikamızda&lt;/a&gt; topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Mi Müzik\'in Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz.
 Mi Müzik\'i kullanmadan önce &lt;a href=\"%2$s\"&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href=\"%1$s\"&gt;Gizlilik Politikamızı&lt;/a&gt; okuyun ve kabul edin.
-Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.</Data>  </string>
+Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.</Data>
+  </string>
   <string name="privacy_request_subtitle">"Mi Müzik'e hoş geldiniz! Bu uygulama aşağıdaki hizmetleri destekler:
 - Yerel bir ses oynatıcı
 - Çevrim içi yayınlanan hizmetler"</string>
@@ -1337,9 +1355,15 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
   <string name="pulluprefreshrecyclerview_loading_finished">Başarıyla yüklendi</string>
   <string name="pulluprefreshrecyclerview_loading_running">Yükleniyor…</string>
   <string name="queue_is_empty">Çalma sırası boş.</string>
-  <string name="read_and_agree_hungama_protocol">    <Data>&lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum ve kabul ettim</Data>  </string>
-  <string name="read_and_agree_joox_protocol">    <Data>&lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum ve kabul ettim</Data>  </string>
-  <string name="read_and_agree_mi_protocol">    <Data>Xiaomi, &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt;&lt;/font&gt; ve &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum be kabul ettim</Data>  </string>
+  <string name="read_and_agree_hungama_protocol">
+    <Data>&lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum ve kabul ettim</Data>
+  </string>
+  <string name="read_and_agree_joox_protocol">
+    <Data>&lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum ve kabul ettim</Data>
+  </string>
+  <string name="read_and_agree_mi_protocol">
+    <Data>Xiaomi, &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt;&lt;/font&gt; ve &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Politikasını&lt;/a&gt;&lt;/font&gt; okudum be kabul ettim</Data>
+  </string>
   <string name="read_and_agree_protocol">Devam etmeden önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun ve kabul edin.</string>
   <string name="ready_to_play">Sıradaki</string>
   <string name="recently_played">Son oynatılanlar</string>

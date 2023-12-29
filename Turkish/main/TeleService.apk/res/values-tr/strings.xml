@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="HIPS_Perm_Read_Contact">Kişiler</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Kişilere eriş</string>
@@ -1010,7 +1010,8 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
   <string name="incall_error_out_of_service_wfc">Mobil ağ kullanılamıyor. Telefon etmek için kablosuz ağa bağlanın.</string>
   <string name="incall_error_outgoing_call_failed">"Arama yapılamadı"</string>
   <string name="incall_error_power_off">Telefon etmek için uçak modunu kapatın.</string>
-  <string name="incall_error_power_off_thermal">    <b>Telefon çok ısındı</b>\"
+  <string name="incall_error_power_off_thermal">
+    <b>Telefon çok ısındı</b>\"
 
 Bu arama tamamlanamıyor. Telefonunuz soğuyana kadar bekleyip tekrar deneyin.
 
@@ -2335,8 +2336,12 @@ Bir sonraki dönem %2$d gün sonra başlıyor (%3$s)"</string>
   <string name="vibrating_for_outgoing_call_accepted_summary">Giden arama kabul edildiğinde titreşimli modu etkinleştirin</string>
   <string name="vibrating_for_outgoing_call_accepted_title">Giden arama kabul edildiğinde titreşimli modu etkinleştirin</string>
   <string name="vice_card_data_in_use_alert">Ek veri ücretleri yansıyabilir.</string>
-  <string name="vice_slot_volte_data_dialog_message">    <Data>Geçerli ağ bağlantınızın dengesiz olduğu anlaşılıyor. Veri SIM kartları arasında otomatik geçiş yapmayı deneyebilirsiniz. &lt;font color=#ff0000&gt;&lt;b&gt;Bu özelliğin kullanılması ek operatör ücretleri oluşturabilir&lt;/b&gt;&lt;/font&gt;.</Data>  </string>
-  <string name="vice_slot_volte_data_dialog_message_ext">    <Data>Geçerli ağ bağlantınızın dengesiz olduğu anlaşılıyor. Veri SIM kartları arasında otomatik geçiş yapmayı deneyebilirsiniz. &lt;font color=#ff0000&gt;&lt;b&gt;Bu özelliğin kullanılması ek operatör ücretleri oluşturabilir&lt;/b&gt;&lt;/font&gt;.</Data>  </string>
+  <string name="vice_slot_volte_data_dialog_message">
+    <Data>Geçerli ağ bağlantınızın dengesiz olduğu anlaşılıyor. Veri SIM kartları arasında otomatik geçiş yapmayı deneyebilirsiniz. &lt;font color=#ff0000&gt;&lt;b&gt;Bu özelliğin kullanılması ek operatör ücretleri oluşturabilir&lt;/b&gt;&lt;/font&gt;.</Data>
+  </string>
+  <string name="vice_slot_volte_data_dialog_message_ext">
+    <Data>Geçerli ağ bağlantınızın dengesiz olduğu anlaşılıyor. Veri SIM kartları arasında otomatik geçiş yapmayı deneyebilirsiniz. &lt;font color=#ff0000&gt;&lt;b&gt;Bu özelliğin kullanılması ek operatör ücretleri oluşturabilir&lt;/b&gt;&lt;/font&gt;.</Data>
+  </string>
   <string name="vice_slot_volte_data_dialog_open">Açık</string>
   <string name="vice_slot_volte_data_switch_prompt">Cihazınız VoLTE aramları sırasında ikinci SIM kartı kullanarak bir mobil veri ağına bağlanacaktır. Bu özellik ek veri ücretlerine neden olabilir. Tarife detaylarınız için yerel operatörünüzle iletişime geçin.</string>
   <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında, cihaz ikinci SIM kartı kullanarak bir mobil veri ağına bağlanır</string>

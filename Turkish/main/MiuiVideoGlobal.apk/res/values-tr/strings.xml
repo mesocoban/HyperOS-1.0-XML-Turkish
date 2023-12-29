@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Earlier">Daha önce</string>
   <string name="HA_DOMAIN">mivideo</string>
@@ -1302,7 +1302,9 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
   <string name="passport_error_unknown">Bilinmeyen hata</string>
   <string name="passport_error_user_agreement_error">Öncelikle şartlar ve koşulları kabul edin</string>
   <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
-  <string name="passport_forget_password">    <u>Şifremi unuttum</u>  </string>
+  <string name="passport_forget_password">
+    <u>Şifremi unuttum</u>
+  </string>
   <string name="passport_get_verify_code">Kodu al</string>
   <string name="passport_getting_verify_code">Yalnızca bir sn…</string>
   <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın.</string>

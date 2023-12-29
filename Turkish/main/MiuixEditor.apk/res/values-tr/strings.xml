@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_frequent_phrases">Sık kullanılan ifadelere ekle</string>
-    <string name="app_name">metin eylemi</string>
-    <string name="call">Arama</string>
-    <string name="call_notification_answer_action">Yanıtla</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Reddet</string>
-    <string name="call_notification_hang_up_action">Kapat</string>
-    <string name="call_notification_incoming_text">Gelen arama</string>
-    <string name="call_notification_ongoing_text">Devam eden arama</string>
-    <string name="call_notification_screening_text">Gelen arama süzülüyor</string>
-    <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
-    <string name="floating_toolbar_close_overflow_description">Taşan araç çubuğunu kapat</string>
-    <string name="floating_toolbar_open_overflow_description">Diğer seçenekler</string>
-    <string name="frequent_phrases">Sık kullanılan ifadeler</string>
-    <string name="google_call">Arama</string>
-    <string name="google_email">E-posta</string>
-    <string name="google_map">Harita</string>
-    <string name="google_open">Aç</string>
-    <string name="google_translate">Çeviri</string>
-    <string name="open">Göz at</string>
-    <string name="query">Sorgula</string>
-    <string name="select">Seç</string>
-    <string name="translate">Çeviri</string>
-    <string name="translation_more">Daha fazla</string>
-    <string name="translation_query_error">"Sonuç bulunamadı"</string>
-    <string name="translation_query_error_network">"Bilgi alınamadı, ağ bağlantısını kontrol edip tekrar deneyin"</string>
+  <string name="add_frequent_phrases">Sık kullanılan ifadelere ekle</string>
+  <string name="app_name">metin eylemi</string>
+  <string name="call">Arama</string>
+  <string name="call_notification_answer_action">Yanıtla</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Reddet</string>
+  <string name="call_notification_hang_up_action">Kapat</string>
+  <string name="call_notification_incoming_text">Gelen arama</string>
+  <string name="call_notification_ongoing_text">Devam eden arama</string>
+  <string name="call_notification_screening_text">Gelen arama süzülüyor</string>
+  <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
+  <string name="floating_toolbar_close_overflow_description">Taşan araç çubuğunu kapat</string>
+  <string name="floating_toolbar_open_overflow_description">Diğer seçenekler</string>
+  <string name="frequent_phrases">Sık kullanılan ifadeler</string>
+  <string name="google_call">Arama</string>
+  <string name="google_email">E-posta</string>
+  <string name="google_map">Harita</string>
+  <string name="google_open">Aç</string>
+  <string name="google_translate">Çeviri</string>
+  <string name="open">Göz at</string>
+  <string name="query">Sorgula</string>
+  <string name="select">Seç</string>
+  <string name="translate">Çeviri</string>
+  <string name="translation_more">Daha fazla</string>
+  <string name="translation_query_error">"Sonuç bulunamadı"</string>
+  <string name="translation_query_error_network">"Bilgi alınamadı, ağ bağlantısını kontrol edip tekrar deneyin"</string>
 </resources>

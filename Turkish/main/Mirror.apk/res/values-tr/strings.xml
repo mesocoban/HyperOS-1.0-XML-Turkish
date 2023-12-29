@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -486,7 +486,9 @@ Bilgisayarınızda başka bir oturum başlatabilirsiniz."</string>
   <string name="seize_title">Ekran paylaşımını durdur</string>
   <string name="send">Gönder</string>
   <string name="settings_bluetooth_enable_summary">Yakındaki cihazları bulabilmek için Bluetooth\'u açın. Şimdi açılsın mı?</string>
-  <string name="settings_connect_more_help">    <u>Yardım</u>  </string>
+  <string name="settings_connect_more_help">
+    <u>Yardım</u>
+  </string>
   <string name="settings_connect_summary1">Bilgisayarınızda Mi Smart Share\'i açın ve \"Ekran Birleşimi\"ni seçin. Mi Smart Share\'i www.miui.com adresinden indirebilirsiniz.</string>
   <string name="settings_connect_summary2">Bilgisayar ekranındaki QR kodunu mobil cihazınızla tarayın. Bunu yapmak için birden fazla sistem uygulaması (ör. Tarayıcı, Kamera, Mi Tarayıcı) kullanabilirsiniz.</string>
   <string name="settings_connect_title1">Adım 1</string>

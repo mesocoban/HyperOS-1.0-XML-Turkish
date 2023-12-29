@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir sorun oluştu.</string>
   <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
@@ -651,15 +651,31 @@
   <string name="passport_to_verify_code_login">SMS yoluyla oturum açın</string>
   <string name="passport_unknown_error">Bilinmeyen hata</string>
   <string name="passport_unknown_host_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-  <string name="passport_user_agreement_hint_3rd_app"><Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt; ile Xiaomi Hesabı\'nın &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Mobile Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;eSörf hesabının şart ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Unicom Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data></string>
-  <string name="passport_user_agreement_hint_default"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app">
+    <Data>\"&lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt; ile Xiaomi Hesabı\'nın &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_mobile">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Mobile Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_with_telecom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;eSörf hesabının şart ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_3rd_app_with_unicom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum &lt;a href=%3$s&gt;;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt; ve ayrıca &lt;a href=%5$s&gt;China Unicom Şartları ve koşulları doğrulama hizmetleri&lt;/a&gt;.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_default">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum.\"</Data>
+  </string>
   <string name="passport_user_agreement_hint_first_login">"Telefon numaranızı ilk kez kullanıyorsanız otomatik  bir hesap oluşturacağız."</string>
-  <string name="passport_user_agreement_hint_with_mobile"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Mobil doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
-  <string name="passport_user_agreement_hint_with_telecom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca eSörf hesabı doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
-  <string name="passport_user_agreement_hint_with_unicom"><Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data></string>
+  <string name="passport_user_agreement_hint_with_mobile">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Mobil doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_with_telecom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca eSörf hesabı doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
+  </string>
+  <string name="passport_user_agreement_hint_with_unicom">
+    <Data>\"Xiaomi Hesabının &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ile &lt;a href=%2$s&gt;Gizlilik Politikası&lt;/a&gt;\'nı okudum ve kabul ediyorum. &lt;a href=%3$s&gt;Ayrıca Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları&lt;/a&gt;.\"</Data>
+  </string>
   <string name="passport_user_avatar_update_title">Profil fotoğrafını değiştir</string>
   <string name="passport_user_avatar_uploading">Bir saniye…</string>
   <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi Hesap Kimliği</string>
@@ -761,7 +777,9 @@
   <string name="pure_introduction_title4">Gizlilik koruması</string>
   <string name="pure_introduction_title5">Dolandırıcılık koruması</string>
   <string name="pure_mode_des">Güvenli mod, cihazınıza yüklenen her uygulamanın Xiaomi güvenlik testlerinden geçmesini sağlar.</string>
-  <string name="pure_mode_install_completed_setting"><u>Bu uygulamayı yönetin</u></string>
+  <string name="pure_mode_install_completed_setting">
+    <u>Bu uygulamayı yönetin</u>
+  </string>
   <string name="pure_mode_install_completed_tip1">· Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
   <string name="pure_mode_install_completed_tip2">"· Her uygulamanın bilgilerini bağımsız olarak depolayın"</string>
   <string name="pure_mode_install_completed_tip3">· Yanıltıcı ve zorla uygulama kurulumunu önleyin</string>

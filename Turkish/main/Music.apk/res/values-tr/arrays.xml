@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aritst_gender_filter_api">
-        <item>tümü</item>
-        <item>erkek</item>
-        <item>kadın</item>
-        <item>grup</item>
-    </string-array>
-    <string-array name="passport_account_user_gender_name">
-        <item>Erkek</item>
-        <item>Kadın</item>
-    </string-array>
-    <string-array name="recommendation_desc_week">
-        <item>Pazar tavsiyeleri</item>
-        <item>Pazartesi tavsiyeleri</item>
-        <item>Salı tavsiyeleri</item>
-        <item>Çarşamba tavsiyeleri</item>
-        <item>Perşembe tavsiyeleri</item>
-        <item>Cuma tavsiyeleri</item>
-        <item>Cumartesi tavsiyeleri</item>
-    </string-array>
+  <string-array name="aritst_gender_filter_api">
+    <item>tümü</item>
+    <item>erkek</item>
+    <item>kadın</item>
+    <item>grup</item>
+  </string-array>
+  <string-array name="passport_account_user_gender_name">
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="recommendation_desc_week">
+    <item>Pazar tavsiyeleri</item>
+    <item>Pazartesi tavsiyeleri</item>
+    <item>Salı tavsiyeleri</item>
+    <item>Çarşamba tavsiyeleri</item>
+    <item>Perşembe tavsiyeleri</item>
+    <item>Cuma tavsiyeleri</item>
+    <item>Cumartesi tavsiyeleri</item>
+  </string-array>
 </resources>
